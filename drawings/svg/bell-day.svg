@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<title>Church bell</title>
+<desc>CFC asset library 175: Church bell (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): frame 220 168; wheel 220 168; bell 220 168.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M178 198C160 200 142 240 138 290C134 350 108 390 86 410L354 410C332 390 306 350 302 290C298 240 280 200 262 198Z"/></clipPath>
+</defs>
+<g id="frame" data-pivot="220 168">
+<path d="M41 156L59 156L59 430L41 430Z" fill="rgb(69,46,33)"/>
+<path d="M38 156L62 156L62 156C64.21 156 66 157.79 66 160L66 176L66 176C66 178.21 64.21 180 62 180L38 180L38 180C35.79 180 34 178.21 34 176L34 160L34 160C34 157.79 35.79 156 38 156Z" fill="rgb(95,64,48)"/>
+<path d="M381 156L399 156L399 430L381 430Z" fill="rgb(69,46,33)"/>
+<path d="M378 156L402 156L402 156C404.21 156 406 157.79 406 160L406 176L406 176C406 178.21 404.21 180 402 180L378 180L378 180C375.79 180 374 178.21 374 176L374 160L374 160C374 157.79 375.79 156 378 156Z" fill="rgb(95,64,48)"/>
+<path d="M40 414L400 414L400 430L40 430Z" fill="rgb(95,64,48)"/>
+</g>
+<g id="wheel" data-pivot="220 168">
+<path d="M360 168C360 245.32 297.32 308 220 308C142.68 308 80 245.32 80 168C80 90.68 142.68 28 220 28C297.32 28 360 90.68 360 168" fill="none" stroke="rgb(95,64,48)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M220 168L360 168" fill="none" stroke="rgb(95,64,48)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M220 168L290 46.76" fill="none" stroke="rgb(95,64,48)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M220 168L150 46.76" fill="none" stroke="rgb(95,64,48)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M220 168L80 168" fill="none" stroke="rgb(95,64,48)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M220 168L150 289.24" fill="none" stroke="rgb(95,64,48)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M220 168L290 289.24" fill="none" stroke="rgb(95,64,48)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M232 168C232 174.63 226.63 180 220 180C213.37 180 208 174.63 208 168C208 161.37 213.37 156 220 156C226.63 156 232 161.37 232 168" fill="rgb(141,157,176)"/>
+</g>
+<g id="bell" data-pivot="220 168">
+<path d="M166 176L274 176L274 176C277.31 176 280 178.69 280 182L280 192L280 192C280 195.31 277.31 198 274 198L166 198L166 198C162.69 198 160 195.31 160 192L160 182L160 182C160 178.69 162.69 176 166 176Z" fill="rgb(160,110,71)"/>
+<path d="M214 168L226 168L226 176L214 176Z" fill="rgb(141,157,176)"/>
+<path d="M354 410C354 421.05 294.01 430 220 430C145.99 430 86 421.05 86 410C86 398.95 145.99 390 220 390C294.01 390 354 398.95 354 410" fill="rgb(29,37,50)"/>
+<path d="M220 200L220 406" fill="none" stroke="rgb(175,129,38)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M236 412C236 420.84 228.84 428 220 428C211.16 428 204 420.84 204 412C204 403.16 211.16 396 220 396C228.84 396 236 403.16 236 412" fill="rgb(175,129,38)"/>
+<path d="M178 198C160 200 142 240 138 290C134 350 108 390 86 410L354 410C332 390 306 350 302 290C298 240 280 200 262 198Z" fill="rgb(216,166,58)"/>
+<g clip-path="url(#c1)"><path d="M260 190L360 190L360 420L260 420Z" fill="rgb(175,129,38)"/></g>
+<path d="M84 402L356 402L356 414L84 414Z" fill="rgb(175,129,38)"/>
+<path d="M130 312L310 312L310 318L130 318Z" fill="rgb(175,129,38)"/>
+</g>
+</svg>

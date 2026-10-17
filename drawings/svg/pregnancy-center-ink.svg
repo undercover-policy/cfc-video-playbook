@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300">
+<title>Pregnancy resource center</title>
+<desc>CFC asset library 56: Pregnancy resource center (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): building 360 280; sign-slot 360 94; window 250 200; door 530 280; awning 560 130; bench 200 280; ground 360 280.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="152" x2="0" y2="280" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<mask id="m2" maskUnits="userSpaceOnUse" x="0" y="0" width="720" height="300"><rect width="720" height="300" fill="#fff"/><path d="M490 130L632 130L642 156L480 156L490 130Z" fill="#000"/></mask>
+</defs>
+<g id="building" data-pivot="360 280">
+<path d="M60 280L60 280" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M54 44L666 44L666 32L54 32Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M60 266L660 266" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="sign-slot" data-pivot="360 94">
+<path d="M60 250L98 250M480 250L500 250M622 250L660 250M60 232L98 232M480 232L500 232M622 232L660 232M60 214L98 214M480 214L500 214M622 214L660 214M60 196L98 196M480 196L500 196M622 196L660 196M60 178L98 178M480 178L500 178M622 178L660 178M60 160L98 160M480 160L500 160M622 160L660 160M60 142L98 142M480 142L485.38 142M636.61 142L660 142M60 124L660 124M60 106L80 106M640 106L660 106M60 88L80 88M640 88L660 88M60 70L80 70M640 70L660 70M60 52L660 52" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 114L620 114L620 74L100 74Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="window" data-pivot="250 200">
+<path d="M108 108L612 108L612 80L108 80Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M98 250L400 250L400 140L98 140Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M174 250L174 140M250 250L250 140M326 250L326 140M98 168L400 168" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="door" data-pivot="530 280">
+<path d="M92 258L406 258L406 250L92 250Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<g mask="url(#m2)"><path d="M523.21 280L570 280L570 152L523.21 152Z" fill="url(#g1)" fill-opacity="0.85"/></g>
+<path d="M500 280L622 280L622 156M500 156L500 280" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M506 280L523.21 280L523.21 156M506 156L506 280" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M510 216L519.21 216M510 274L510 274" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="awning" data-pivot="560 130">
+<path d="M572 274L572 274" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M490 130L632 130L642 156L480 156Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="bench" data-pivot="200 280">
+<path d="M505.78 130L498 156M521.56 130L516 156M537.33 130L534 156M553.11 130L552 156M568.89 130L570 156M584.67 130L588 156M600.44 130L606 156M616.22 130L624 156" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140 250L260 250L260 244L140 244ZM148 280L148 250M252 280L252 250" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="ground" data-pivot="360 280">
+<path d="M140 236L260 236L260 220L140 220Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 280L700 280" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M20 290L700 290" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

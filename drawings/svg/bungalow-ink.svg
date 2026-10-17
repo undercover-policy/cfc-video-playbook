@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="300" viewBox="0 0 660 300">
+<title>Craftsman bungalow</title>
+<desc>CFC asset library 62: Craftsman bungalow (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): house 330 285; porch 330 285; ground 330 285.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="175" x2="0" y2="255" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g2" gradientUnits="userSpaceOnUse" x1="0" y1="183" x2="0" y2="195" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+</defs>
+<g id="house" data-pivot="330 285">
+<path d="M70 265L204 265M456 265L590 265L590 125L406.37 125M253.63 125L70 125L70 265M30 125L253.64 125M406.36 125L630 125L330 15L30 125" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70 255L204 255M456 255L590 255M70 246L204 246M236 246L424 246M456 246L590 246M70 237L204 237M236 237L424 237M456 237L590 237M70 228L204 228M236 228L424 228M456 228L590 228M70 219L100 219M270 219L410 219M560 219L590 219M70 210L100 210M270 210L410 210M560 210L590 210M70 201L100 201M270 201L410 201M560 201L590 201M70 192L100 192M270 192L410 192M560 192L590 192M70 183L100 183M270 183L410 183M560 183L590 183M70 174L100 174M270 174L410 174M560 174L590 174M70 165L100 165M270 165L410 165M560 165L590 165M70 156L100 156M270 156L410 156M560 156L590 156M70 147L100 147M560 147L590 147M70 138L226.06 138M433.94 138L590 138M70 129L245.15 129M414.85 129L590 129" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M50 117.67L50 127.67M90 103L90 113M130 88.33L130 98.33M170 73.67L170 83.67M210 59L210 69M250 44.33L250 54.33M290 29.67L290 39.67M330 15L330 25M370 29.67L370 39.67M410 44.33L410 54.33M450 59L450 69M490 73.67L490 83.67M530 88.33L530 98.33M570 103L570 113M610 117.67L610 127.67" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M82.73 113L279.09 113M380.91 113L577.27 113M115.45 101L304.55 101M355.45 101L544.55 101M148.18 89L511.82 89M180.91 77L479.09 77M213.64 65L446.36 65M246.36 53L413.64 53M279.09 41L380.91 41M311.82 29L348.18 29" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 225L180 225L180 145L100 145Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 169L180 169M120 169L120 145M140 169L140 145M160 169L160 145" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M190 225L204 225M236 225L270 225L270 155M211.21 145L190 145L190 225" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M190 169L204 169M236 169L270 169M210 163L210 155M210 145.57L210 145M230 163L230 155M250 169L250 155" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M410 225L424 225M456 225L490 225L490 145L448.79 145M410 155L410 225" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M410 169L424 169M456 169L490 169M430 163L430 155M450 163L450 155M450 145.57L450 145M470 169L470 145" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M500 225L580 225L580 145L500 145Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="porch" data-pivot="330 285">
+<path d="M500 169L580 169M520 169L520 145M540 169L540 145M560 169L560 145" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M200 285L460 285L460 255L456 255M424 255L236 255M204 255L200 255L200 285M190 155L190 155" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M190 163L204 163M236 163L424 163M456 163L470 163" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M204 285L236 285L236 229L204 229Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M204 279L236 279M204 272L236 272M204 265L236 265M204 258L236 258M204 251L236 251M204 244L236 244M204 237L236 237M204 230L236 230" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.45" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M208 229L232 229L227 163L213 163Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M424 285L456 285L456 229L424 229Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M424 279L456 279M424 272L456 272M424 265L456 265M424 258L456 258M424 251L456 251M424 244L456 244M424 237L456 237M424 230L456 230" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.45" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M428 229L452 229L447 163L433 163Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M308 255L352 255L352 175L308 175Z" fill="url(#g1)" fill-opacity="0.8"/>
+<path d="M308 255L352 255L352 175L308 175Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M316 205L344 205L344 183L316 183Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M292 189L292 189C292 192.31 289.31 195 286 195C282.69 195 280 192.31 280 189C280 185.69 282.69 183 286 183C289.31 183 292 185.69 292 189" fill="url(#g2)"/>
+</g>
+<g id="ground" data-pivot="330 285">
+<path d="M291 189L291 189C291 191.76 288.76 194 286 194C283.24 194 281 191.76 281 189C281 186.24 283.24 184 286 184C288.76 184 291 186.24 291 189" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M10 285L650 285" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

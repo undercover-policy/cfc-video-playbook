@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="450" viewBox="0 0 780 450">
+<title>Two-storey suburban house</title>
+<desc>CFC asset library 60: Two-storey suburban house (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): main 500 430; window-1 610 322; window-2 345 198; window-3 475 198; window-4 645 198; door 430 430; house-number-slot 430 284; garage 160 430; ground 400 430.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="260" x2="0" y2="384" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g2" gradientUnits="userSpaceOnUse" x1="0" y1="162" x2="0" y2="234" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g3" gradientUnits="userSpaceOnUse" x1="0" y1="162" x2="0" y2="234" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g4" gradientUnits="userSpaceOnUse" x1="0" y1="162" x2="0" y2="234" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g5" gradientUnits="userSpaceOnUse" x1="0" y1="320" x2="0" y2="430" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g6" gradientUnits="userSpaceOnUse" x1="0" y1="327" x2="0" y2="341" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+</defs>
+<g id="main" data-pivot="500 430">
+<path d="M280 430L280 430" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M264 130L746 130L636 30L374 30Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M277.2 118L732.8 118M290.4 106L719.6 106M303.6 94L706.4 94M316.8 82L693.2 82M330 70L680 70M343.2 58L666.8 58M356.4 46L653.6 46M369.6 34L640.4 34" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.45" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="window-1" data-pivot="610 322">
+<path d="M280 138L730 138M280 280L400.45 280M459.55 280L730 280" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M530 384L690 384L690 260L530 260Z" fill="url(#g1)" fill-opacity="0.75"/>
+<path d="M530 384L690 384L690 260L530 260Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M524 392L696 392L696 386L524 386Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="window-2" data-pivot="345 198">
+<path d="M570 384L570 260M610 384L610 260M650 384L650 260M530 322L690 322" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M310 234L380 234L380 162L310 162Z" fill="url(#g2)" fill-opacity="0.75"/>
+<path d="M310 234L380 234L380 162L310 162Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M304 242L386 242L386 236L304 236Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="window-3" data-pivot="475 198">
+<path d="M345 234L345 162M310 198L380 198" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M440 234L510 234L510 162L440 162Z" fill="url(#g3)" fill-opacity="0.75"/>
+<path d="M440 234L510 234L510 162L440 162Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M434 242L516 242L516 236L434 236Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="window-4" data-pivot="645 198">
+<path d="M475 234L475 162M440 198L510 198" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M600 234L690 234L690 162L600 162Z" fill="url(#g4)" fill-opacity="0.75"/>
+<path d="M600 234L690 234L690 162L600 162Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M594 242L696 242L696 236L594 236Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="door" data-pivot="430 430">
+<path d="M630 234L630 162M660 234L660 162M600 198L690 198" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M404 430L456 430L456 320L404 320Z" fill="url(#g5)" fill-opacity="0.25"/>
+<path d="M404 430L456 430L456 320L404 320Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M412 420L448 420L448 378L412 378ZM412 370L448 370L448 330L412 330ZM452.5 374L452.5 374C452.5 375.38 451.38 376.5 450 376.5C448.62 376.5 447.5 375.38 447.5 374C447.5 372.62 448.62 371.5 450 371.5C451.38 371.5 452.5 372.62 452.5 374" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M380 298L480 298L430 254Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="house-number-slot" data-pivot="430 284">
+<path d="M388 430L388 298M472 430L472 298M392 430L392 298M468 430L468 298" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M414 290L446 290L446 278L414 278Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M377 334L377 334C377 337.87 373.87 341 370 341C366.13 341 363 337.87 363 334C363 330.13 366.13 327 370 327C373.87 327 377 330.13 377 334" fill="url(#g6)"/>
+</g>
+<g id="garage" data-pivot="160 430">
+<path d="M364 346L376 346L376 324L364 324ZM374 334L374 334C374 336.21 372.21 338 370 338C367.79 338 366 336.21 366 334C366 331.79 367.79 330 370 330C372.21 330 374 331.79 374 334" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40 430L280 430L280 260L40 260ZM26 260L280 260L280 194L108 194Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40.91 248L280 248M55.82 236L280 236M70.73 224L280 224M85.64 212L280 212M100.55 200L280 200" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.45" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M66 430L254 430L254 302L66 302Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M66 398L254 398M66 366L254 366M66 334L254 334" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="ground" data-pivot="400 430">
+<path d="M103.6 424L103.6 404M141.2 424L141.2 404M178.8 424L178.8 404M216.4 424L216.4 404M103.6 392L103.6 372M141.2 392L141.2 372M178.8 392L178.8 372M216.4 392L216.4 372M103.6 360L103.6 340M141.2 360L141.2 340M178.8 360L178.8 340M216.4 360L216.4 340M103.6 328L103.6 308M141.2 328L141.2 308M178.8 328L178.8 308M216.4 328L216.4 308" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 430L780 430" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M404 430L390 444M456 430L470 444" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

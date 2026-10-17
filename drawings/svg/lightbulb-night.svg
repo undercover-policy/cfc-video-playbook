@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="380" viewBox="0 0 320 380">
+<title>Lightbulb (lights)</title>
+<desc>CFC asset library 142: Lightbulb (lights) (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): bulb 160 110; base 160 300.</desc>
+<g id="light">
+<path d="M300 110C300 187.32 237.32 250 160 250C82.68 250 20 187.32 20 110C20 32.68 82.68 -30 160 -30C237.32 -30 300 32.68 300 110" fill="rgb(255,211,106)" fill-opacity="0.3"/>
+</g>
+<g id="bulb" data-pivot="160 110">
+<path d="M126 260C120 210 64 170 64 110C64 50 110 14 160 14C210 14 256 50 256 110C256 170 200 210 194 260Z" fill="rgb(47,81,123)" fill-opacity="0.5"/>
+<path d="M126 260C120 210 64 170 64 110C64 50 110 14 160 14C210 14 256 50 256 110C256 170 200 210 194 260Z" fill="rgb(255,211,106)"/>
+<path d="M126 260C120 210 64 170 64 110C64 50 110 14 160 14C210 14 256 50 256 110C256 170 200 210 194 260Z" fill="none" stroke="rgb(47,81,123)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M146 260L146 150L134 124L152 116L168 124L186 116L174 150L174 260" fill="none" stroke="rgb(244,184,36)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M108 60L108 60L108 60C111.31 60 114 62.69 114 66L114 124L114 124C114 127.31 111.31 130 108 130L108 130L108 130C104.69 130 102 127.31 102 124L102 66L102 66C102 62.69 104.69 60 108 60Z" fill="rgb(108,138,169)" fill-opacity="0.5"/>
+</g>
+<g id="base" data-pivot="160 300">
+<path d="M130 256L190 256L190 256C193.31 256 196 258.69 196 262L196 318L196 318C196 321.31 193.31 324 190 324L130 324L130 324C126.69 324 124 321.31 124 318L124 262L124 262C124 258.69 126.69 256 130 256Z" fill="rgb(116,135,154)"/>
+<path d="M124 311L196 311L196 316L124 316Z" fill="rgb(90,110,133)"/>
+<path d="M124 297L196 297L196 302L124 302Z" fill="rgb(90,110,133)"/>
+<path d="M124 283L196 283L196 288L124 288Z" fill="rgb(90,110,133)"/>
+<path d="M124 269L196 269L196 274L124 274Z" fill="rgb(90,110,133)"/>
+<path d="M148 322L172 322L172 322C175.31 322 178 324.69 178 328L178 336L178 336C178 339.31 175.31 342 172 342L148 342L148 342C144.69 342 142 339.31 142 336L142 328L142 328C142 324.69 144.69 322 148 322Z" fill="rgb(19,33,52)"/>
+</g>
+</svg>

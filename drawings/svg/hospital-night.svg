@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="400" viewBox="0 0 920 400">
+<title>Hospital</title>
+<desc>CFC asset library 58: Hospital (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): tower 440 380; atrium 430 380; emergency 770 380; emergency-sign-slot 790 294; ground 440 380.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="124" x2="0" y2="154" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+</defs>
+<g id="tower" data-pivot="440 380">
+<path d="M160 380L720 380M720 270L720 50L160 50L160 380M350 50L350 50" fill="none" stroke="rgb(185,205,227)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 318L330 318M530 318L720 318" fill="none" stroke="rgb(185,205,227)" stroke-width="1.56" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M178 310L204 310L204 280L178 280Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M223 310L249 310L249 280L223 280Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M268 310L294 310L294 280L268 280Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M313 310L330 310M330 280L313 280L313 300M313 310L313 310" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M538 310L564 310L564 280L538 280L538 300M538 310L538 310" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M583 310L609 310L609 280L583 280Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M628 310L654 310L654 280L628 280Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M673 310L699 310L699 280L673 280Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 266L343.34 266M516.67 266L720 266" fill="none" stroke="rgb(185,205,227)" stroke-width="1.56" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M178 258L204 258L204 228L178 228Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M223 258L249 258L249 228L223 228Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M268 258L294 258L294 228L268 228Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M313 258L313 258" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M358 258L370 258M384 253.8L384 228L358 228L358 258" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M429 240.3L429 228L403 228L403 248.1" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M474 253.2L474 228L448 228L448 245.4" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M493 258L493 258" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M538 258L564 258L564 228L538 228Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M583 258L609 258L609 228L583 228Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M628 258L654 258L654 228L628 228Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M673 258L699 258L699 228L673 228Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 214L720 214" fill="none" stroke="rgb(185,205,227)" stroke-width="1.56" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M178 206L204 206L204 176L178 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M223 206L249 206L249 176L223 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M268 206L294 206L294 176L268 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M313 206L339 206L339 176L313 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M358 206L384 206L384 176L358 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M403 206L429 206L429 176L403 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M448 206L474 206L474 176L448 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M493 206L519 206L519 176L493 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M538 206L564 206L564 176L538 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M583 206L609 206L609 176L583 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M628 206L654 206L654 176L628 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M673 206L699 206L699 176L673 176Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 162L720 162" fill="none" stroke="rgb(185,205,227)" stroke-width="1.56" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M178 154L204 154L204 124L178 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M223 154L249 154L249 124L223 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M268 154L294 154L294 124L268 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M313 154L339 154L339 124L313 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M358 154L384 154L384 124L358 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M403 154L429 154L429 124L403 124Z" fill="url(#g1)"/>
+<path d="M403 154L429 154L429 124L403 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M448 154L474 154L474 124L448 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M493 154L519 154L519 124L493 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M538 154L564 154L564 124L538 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M583 154L609 154L609 124L583 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M628 154L654 154L654 124L628 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M673 154L699 154L699 124L673 124Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 110L720 110" fill="none" stroke="rgb(185,205,227)" stroke-width="1.56" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M178 102L204 102L204 72L178 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M223 102L249 102L249 72L223 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M268 102L294 102L294 72L268 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M313 102L339 102L339 72L313 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M358 102L384 102L384 72L358 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M403 102L429 102L429 72L403 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M448 102L474 102L474 72L448 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M493 102L519 102L519 72L493 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M538 102L564 102L564 72L538 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M583 102L609 102L609 72L583 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M628 102L654 102L654 72L628 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="atrium" data-pivot="430 380">
+<path d="M673 102L699 102L699 72L673 72Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M330 380L330 310M330 300L330 270L430 240L530 270L530 300M530 310L530 380L330 380" fill="none" stroke="rgb(185,205,227)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M360 380L360 310M360 300L360 261M390 380L390 310M390 300L390 252M420 380L420 310M420 300L420 243M450 380L450 310M450 300L450 246M480 380L480 310M480 300L480 255M510 380L510 310M510 300L510 264M330 324L530 324" fill="none" stroke="rgb(185,205,227)" stroke-width="1.14" stroke-opacity="0.55" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="emergency" data-pivot="770 380">
+<path d="M300 310L560 310L560 300L300 300Z" fill="none" stroke="rgb(185,205,227)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M720 380L860 380L860 280L720 280ZM710 280L870 280L870 268L710 268Z" fill="none" stroke="rgb(185,205,227)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="emergency-sign-slot" data-pivot="790 294">
+<path d="M740 380L840 380L840 310L740 310ZM790 380L790 310" fill="none" stroke="rgb(185,205,227)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="ground" data-pivot="440 380">
+<path d="M736 302L844 302L844 286L736 286Z" fill="none" stroke="rgb(185,205,227)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M120 380L900 380" fill="none" stroke="rgb(185,205,227)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

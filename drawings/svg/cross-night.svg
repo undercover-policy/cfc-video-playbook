@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="440" viewBox="0 0 480 440">
+<title>Latin cross</title>
+<desc>CFC asset library 148: Latin cross (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): light 240 420; cross 240 420.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M0 0L480 0L480 382L0 382ZM0 0"/></clipPath>
+<radialGradient id="g2" gradientUnits="userSpaceOnUse" fx="240" fy="220" fr="0" cx="240" cy="220" r="210" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)" stop-opacity="0.55"/><stop offset="1" stop-color="rgb(255,211,106)" stop-opacity="0"/></radialGradient>
+</defs>
+<g id="light" data-pivot="240 420">
+<g clip-path="url(#c1)"><path d="M0 0L480 0L480 420L0 420Z" fill="url(#g2)"/></g>
+</g>
+<path d="M300 420C300 422.98 273.14 425.4 240 425.4C206.86 425.4 180 422.98 180 420C180 417.02 206.86 414.6 240 414.6C273.14 414.6 300 417.02 300 420" fill="rgb(9,32,61)" fill-opacity="0.16"/>
+<g id="cross" data-pivot="240 420">
+<path d="M218 80L262 80L262 420L218 420Z" fill="rgb(61,51,51)"/>
+<path d="M248 80L262 80L262 420L248 420Z" fill="rgb(44,39,41)"/>
+<path d="M150 158L330 158L330 198L150 198Z" fill="rgb(61,51,51)"/>
+<path d="M150 190L330 190L330 198L150 198Z" fill="rgb(44,39,41)"/>
+<path d="M248 158L262 158L262 190L248 190Z" fill="rgb(44,39,41)"/>
+<path d="M218 80L248 80L248 84L218 84Z" fill="rgb(79,65,62)"/>
+<path d="M150 158L248 158L248 162L150 162Z" fill="rgb(79,65,62)"/>
+</g>
+</svg>

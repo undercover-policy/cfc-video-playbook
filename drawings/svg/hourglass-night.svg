@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="400" viewBox="0 0 300 400">
+<title>Hourglass (sand runs)</title>
+<desc>CFC asset library 143: Hourglass (sand runs) (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): glass 150 195; frame 150 195.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M142 195C130 165 60 125 60 45L240 45C240 125 170 165 158 195Z"/></clipPath>
+<clipPath id="c2" clipPathUnits="userSpaceOnUse"><path d="M142 195C130 225 60 265 60 345L240 345C240 265 170 225 158 195Z"/></clipPath>
+</defs>
+<g id="sand">
+<g clip-path="url(#c1)"><path d="M50 125L250 125L250 195L50 195Z" fill="rgb(149,115,78)"/></g>
+<g clip-path="url(#c2)"><path d="M50 345L250 345L250 317L150 265L50 317Z" fill="rgb(149,115,78)"/></g>
+<path d="M148 195L152 195L152 265L148 265Z" fill="rgb(149,115,78)"/>
+</g>
+<g id="glass" data-pivot="150 195">
+<path d="M142 195C130 165 60 125 60 45L240 45C240 125 170 165 158 195Z" fill="rgb(47,81,123)" fill-opacity="0.3"/>
+<path d="M142 195C130 165 60 125 60 45L240 45C240 125 170 165 158 195Z" fill="none" stroke="rgb(47,81,123)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M142 195C130 225 60 265 60 345L240 345C240 265 170 225 158 195Z" fill="rgb(47,81,123)" fill-opacity="0.3"/>
+<path d="M142 195C130 225 60 265 60 345L240 345C240 265 170 225 158 195Z" fill="none" stroke="rgb(47,81,123)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="frame" data-pivot="150 195">
+<path d="M36 17L264 17L264 17C267.31 17 270 19.69 270 23L270 39L270 39C270 42.31 267.31 45 264 45L36 45L36 45C32.69 45 30 42.31 30 39L30 23L30 23C30 19.69 32.69 17 36 17Z" fill="rgb(61,51,51)"/>
+<path d="M36 345L264 345L264 345C267.31 345 270 347.69 270 351L270 367L270 367C270 370.31 267.31 373 264 373L36 373L36 373C32.69 373 30 370.31 30 367L30 351L30 351C30 347.69 32.69 345 36 345Z" fill="rgb(61,51,51)"/>
+<path d="M40 45L44 45L44 45C46.76 45 49 47.24 49 50L49 340L49 340C49 342.76 46.76 345 44 345L40 345L40 345C37.24 345 35 342.76 35 340L35 50L35 50C35 47.24 37.24 45 40 45Z" fill="rgb(44,39,41)"/>
+<path d="M256 45L260 45L260 45C262.76 45 265 47.24 265 50L265 340L265 340C265 342.76 262.76 345 260 345L256 345L256 345C253.24 345 251 342.76 251 340L251 50L251 50C251 47.24 253.24 45 256 45Z" fill="rgb(44,39,41)"/>
+</g>
+<path d="M270 373C270 378.96 216.27 383.8 150 383.8C83.73 383.8 30 378.96 30 373C30 367.04 83.73 362.2 150 362.2C216.27 362.2 270 367.04 270 373" fill="rgb(9,32,61)" fill-opacity="0.14"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420">
+<title>Donut chart (parts from the project)</title>
+<desc>CFC asset library 182: Donut chart (parts from the project) (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): ring 210 200; centre-slot 210 200; label-slot 210 370.</desc>
+<path d="M44 28L386 28L386 28C397.05 28 406 36.95 406 48L406 388L406 388C406 399.05 397.05 408 386 408L44 408L44 408C32.95 408 24 399.05 24 388L24 48L24 48C24 36.95 32.95 28 44 28Z" fill="rgb(14,35,64)" fill-opacity="0.12"/>
+<path d="M40 20L380 20L380 20C391.05 20 400 28.95 400 40L400 380L400 380C400 391.05 391.05 400 380 400L40 400L40 400C28.95 400 20 391.05 20 380L20 40L20 40C20 28.95 28.95 20 40 20Z" fill="rgb(255,255,255)"/>
+<g id="ring" data-pivot="210 200">
+<path d="M340 200C340 271.8 281.8 330 210 330C138.2 330 80 271.8 80 200C80 128.2 138.2 70 210 70C281.8 70 340 128.2 340 200" fill="none" stroke="rgb(228,234,241)" stroke-width="52" stroke-linejoin="round"/>
+<path d="M210 70C264.32 70 312.91 103.77 331.85 154.69C350.78 205.6 336.06 262.92 294.94 298.41C253.83 333.9 194.97 340.09 147.37 313.92" fill="none" stroke="rgb(244,184,36)" stroke-width="52" stroke-linejoin="round"/>
+<path d="M147.37 313.92C114.67 295.94 91.27 264.78 83.13 228.36C74.99 191.94 82.89 153.78 104.83 123.59" fill="none" stroke="rgb(110,151,196)" stroke-width="52" stroke-linejoin="round"/>
+<path d="M104.83 123.59C129.29 89.92 168.39 70 210 70" fill="none" stroke="rgb(0,45,92)" stroke-width="52" stroke-linejoin="round"/>
+</g>
+<g id="centre-slot" data-pivot="210 200">
+<path d="M154 176L266 176L266 176C270.42 176 274 179.58 274 184L274 216L274 216C274 220.42 270.42 224 266 224L154 224L154 224C149.58 224 146 220.42 146 216L146 184L146 184C146 179.58 149.58 176 154 176Z" fill="rgb(228,234,241)"/>
+</g>
+<g id="label-slot" data-pivot="210 370">
+<path d="M66 356L354 356L354 356C357.31 356 360 358.69 360 362L360 376L360 376C360 379.31 357.31 382 354 382L66 382L66 382C62.69 382 60 379.31 60 376L60 362L60 362C60 358.69 62.69 356 66 356Z" fill="rgb(228,234,241)"/>
+</g>
+</svg>

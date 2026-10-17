@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<title>Softball diamond</title>
+<desc>CFC asset library 76: Softball diamond (ink). Drawn in code by the CFC Motion Engine; licence row A-031.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M0 0L960 0L960 600L0 600ZM0 0"/></clipPath>
+</defs>
+<g id="infield">
+<g clip-path="url(#c1)"><path d="M480 413.58L701.63 254.68M696.32 244.74L487.62 161.62M472.38 161.62L263.68 244.74M258.37 254.68L480 413.58M528.51 260.99L528.51 260.99" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<g id="chalk">
+<g clip-path="url(#c1)"><path d="M13.21 78.91L51.04 72.01L87.26 65.85L122.08 60.37L155.67 55.51L188.2 51.21L219.79 47.43L250.58 44.13L280.68 41.29L310.19 38.87L339.21 36.86L367.84 35.24L396.15 33.99L424.22 33.11L452.15 32.58L480 32.41L507.85 32.58L535.78 33.11L563.85 33.99L592.16 35.24L620.79 36.86L649.81 38.87L679.32 41.29L709.42 44.13L740.21 47.43L771.8 51.21L804.33 55.51L837.92 60.37L872.74 65.85L908.96 72.01L946.79 78.91" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<g id="bases">
+<g clip-path="url(#c1)"><path d="M480 413.58L701.63 254.68M715.49 244.74L946.76 78.93M480 413.58L258.37 254.68M244.51 244.74L13.24 78.93" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M701.63 254.68L721.28 254.68L715.49 244.74L696.32 244.74Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M472.38 161.63L487.62 161.63L487.48 155.61L472.52 155.61Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M238.72 254.68L258.37 254.68L263.68 244.74L244.51 244.74Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<g id="backstop">
+<g clip-path="url(#c1)"><path d="M480 421.82L492.13 416.3L491.96 408.22L468.04 408.22L467.87 416.3Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M253.91 500.87L253.91 379.13L706.09 379.13L706.09 500.87" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<path d="M271.3 500.87L271.3 379.13M306.09 500.87L306.09 379.13M340.87 500.87L340.87 379.13M375.65 500.87L375.65 379.13M410.43 500.87L410.43 379.13M445.22 500.87L445.22 379.13M480 500.87L480 379.13M514.78 500.87L514.78 379.13M549.57 500.87L549.57 379.13M584.35 500.87L584.35 379.13M619.13 500.87L619.13 379.13M653.91 500.87L653.91 379.13M688.7 500.87L688.7 379.13M253.91 470.43L706.09 470.43M253.91 440L706.09 440M253.91 409.57L706.09 409.57" fill="none" stroke="rgb(0,0,0)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

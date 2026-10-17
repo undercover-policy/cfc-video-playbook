@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="260" viewBox="0 0 380 260">
+<title>Stat tile</title>
+<desc>CFC asset library 178: Stat tile (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): tile 190 130; number-slot 190 106; label-slot 190 184.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M48 30L332 30L332 30C341.94 30 350 38.06 350 48L350 212L350 212C350 221.94 341.94 230 332 230L48 230L48 230C38.06 230 30 221.94 30 212L30 48L30 48C30 38.06 38.06 30 48 30Z"/></clipPath>
+</defs>
+<path d="M52 38L338 38L338 38C347.94 38 356 46.06 356 56L356 220L356 220C356 229.94 347.94 238 338 238L52 238L52 238C42.06 238 34 229.94 34 220L34 56L34 56C34 46.06 42.06 38 52 38Z" fill="rgb(9,32,61)" fill-opacity="0.12"/>
+<g id="tile" data-pivot="190 130">
+<path d="M48 30L332 30L332 30C341.94 30 350 38.06 350 48L350 212L350 212C350 221.94 341.94 230 332 230L48 230L48 230C38.06 230 30 221.94 30 212L30 48L30 48C30 38.06 38.06 30 48 30Z" fill="rgb(230,232,235)"/>
+<g clip-path="url(#c1)"><path d="M30 30L44 30L44 230L30 230Z" fill="rgb(0,39,79)"/></g>
+</g>
+<g id="number-slot" data-pivot="190 106">
+<path d="M80 64L310 64L310 64C315.52 64 320 68.48 320 74L320 132L320 132C320 137.52 315.52 142 310 142L80 142L80 142C74.48 142 70 137.52 70 132L70 74L70 74C70 68.48 74.48 64 80 64Z" fill="rgb(182,193,204)"/>
+</g>
+<g id="label-slot" data-pivot="190 184">
+<path d="M76 172L274 172L274 172C277.31 172 280 174.69 280 178L280 190L280 190C280 193.31 277.31 196 274 196L76 196L76 196C72.69 196 70 193.31 70 190L70 178L70 178C70 174.69 72.69 172 76 172Z" fill="rgb(182,193,204)"/>
+</g>
+</svg>

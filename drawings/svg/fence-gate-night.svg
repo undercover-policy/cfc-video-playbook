@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" viewBox="0 0 860 240">
+<title>Fence and gate</title>
+<desc>CFC asset library 133: Fence and gate (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): fence 430 220; gate 344 220; ground 430 220.</desc>
+<g id="fence" data-pivot="430 220">
+<path d="M299 220L299 82L310 70L321 82L321 220M265 220L265 82L276 70L287 82L287 220M231 220L231 82L242 70L253 82L253 220M197 220L197 82L208 70L219 82L219 220M163 220L163 82L174 70L185 82L185 220M129 220L129 82L140 70L151 82L151 220M95 220L95 82L106 70L117 82L117 220M61 220L61 82L72 70L83 82L83 220M27 220L27 82L38 70L49 82L49 220" fill="none" stroke="rgb(185,205,227)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M324 180L26 180M324 110L26 110" fill="none" stroke="rgb(185,205,227)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M539 220L539 82L550 70L561 82L561 220M573 220L573 82L584 70L595 82L595 220M607 220L607 82L618 70L629 82L629 220M641 220L641 82L652 70L663 82L663 220M675 220L675 82L686 70L697 82L697 220M709 220L709 82L720 70L731 82L731 220M743 220L743 82L754 70L765 82L765 220M777 220L777 82L788 70L799 82L799 220M811 220L811 82L822 70L833 82L833 220" fill="none" stroke="rgb(185,205,227)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M536 180L834 180M536 110L834 110" fill="none" stroke="rgb(185,205,227)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M324 220L324 220M321 44L321 44" fill="none" stroke="rgb(185,205,227)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="gate" data-pivot="344 220">
+<path d="M516 220L536 220L536 44L516 44L516 71.09M516 220L516 220M513 44L513 44" fill="none" stroke="rgb(185,205,227)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M349 220L349 82L360 70L371 82L371 220M380 220L380 82L391 70L402 82L402 220M411 220L411 82L422 70L433 82L433 220M442 220L442 82L453 70L464 82L464 220M473 220L473 82L484 70L495 82L495 220M504 220L504 82L515 70L526 82L526 220" fill="none" stroke="rgb(185,205,227)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="ground" data-pivot="430 220">
+<path d="M350 180L510 180M350 110L510 110M350 176L510 114" fill="none" stroke="rgb(185,205,227)" stroke-width="1.56" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M10 220L850 220" fill="none" stroke="rgb(185,205,227)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

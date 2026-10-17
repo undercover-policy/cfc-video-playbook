@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="380" viewBox="0 0 500 380">
+<title>TV (screen slot)</title>
+<desc>CFC asset library 158: TV (screen slot) (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): stand 250 360; screen 250 170.</desc>
+<path d="M450 360C450 369.94 360.46 378 250 378C139.54 378 50 369.94 50 360C50 350.06 139.54 342 250 342C360.46 342 450 350.06 450 360" fill="rgb(14,35,64)" fill-opacity="0.14"/>
+<g id="stand" data-pivot="250 360">
+<path d="M80 320L90 320L110 360L54 360Z" fill="rgb(58,69,86)"/>
+<path d="M420 320L410 320L390 360L446 360Z" fill="rgb(58,69,86)"/>
+</g>
+<g id="screen" data-pivot="250 170">
+<path d="M24 20L476 20L476 20C479.31 20 482 22.69 482 26L482 318L482 318C482 321.31 479.31 324 476 324L24 324L24 324C20.69 324 18 321.31 18 318L18 26L18 26C18 22.69 20.69 20 24 20Z" fill="rgb(29,37,50)"/>
+<path d="M30 30L470 30L470 30C471.1 30 472 30.9 472 32L472 312L472 312C472 313.1 471.1 314 470 314L30 314L30 314C28.9 314 28 313.1 28 312L28 32L28 32C28 30.9 28.9 30 30 30Z" fill="rgb(19,34,56)"/>
+<path d="M28 30L472 30L472 314L28 314Z" fill="rgb(238,244,251)"/>
+</g>
+</svg>

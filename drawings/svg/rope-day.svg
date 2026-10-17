@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="140" viewBox="0 0 680 140">
+<title>Tug-of-war rope</title>
+<desc>CFC asset library 136: Tug-of-war rope (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): ground 340 120; rope 250 50.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M-38 38L538 38L538 38C544.63 38 550 43.37 550 50L550 50L550 50C550 56.63 544.63 62 538 62L-38 62L-38 62C-44.63 62 -50 56.63 -50 50L-50 50L-50 50C-50 43.37 -44.63 38 -38 38Z"/></clipPath>
+</defs>
+<g id="ground" data-pivot="340 120">
+<path d="M20 120L660 120L660 124L20 124Z" fill="rgb(228,234,241)"/>
+<path d="M337 96L343 96L343 124L337 124Z" fill="rgb(244,184,36)"/>
+</g>
+<g id="rope" data-pivot="250 50">
+<path d="M-38 38L538 38L538 38C544.63 38 550 43.37 550 50L550 50L550 50C550 56.63 544.63 62 538 62L-38 62L-38 62C-44.63 62 -50 56.63 -50 50L-50 50L-50 50C-50 43.37 -44.63 38 -38 38Z" fill="rgb(195,147,106)"/>
+<g clip-path="url(#c1)"><path d="M-70 62L-58 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M-56 62L-44 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M-42 62L-30 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M-28 62L-16 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M-14 62L-2 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M0 62L12 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M14 62L26 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M28 62L40 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M42 62L54 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M56 62L68 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M70 62L82 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M84 62L96 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M98 62L110 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M112 62L124 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M126 62L138 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M140 62L152 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M154 62L166 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M168 62L180 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M182 62L194 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M196 62L208 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M210 62L222 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M224 62L236 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M238 62L250 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M252 62L264 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M266 62L278 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M280 62L292 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M294 62L306 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M308 62L320 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M322 62L334 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M336 62L348 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M350 62L362 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M364 62L376 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M378 62L390 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M392 62L404 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M406 62L418 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M420 62L432 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M434 62L446 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M448 62L460 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M462 62L474 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M476 62L488 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M490 62L502 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M504 62L516 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M518 62L530 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M532 62L544 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M546 62L558 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M560 62L572 38" fill="none" stroke="rgb(160,110,71)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M-30 50C-30 61.05 -38.95 70 -50 70C-61.05 70 -70 61.05 -70 50C-70 38.95 -61.05 30 -50 30C-38.95 30 -30 38.95 -30 50" fill="rgb(160,110,71)"/>
+<path d="M-36 50C-36 57.73 -42.27 64 -50 64C-57.73 64 -64 57.73 -64 50C-64 42.27 -57.73 36 -50 36C-42.27 36 -36 42.27 -36 50" fill="rgb(195,147,106)"/>
+<path d="M570 50C570 61.05 561.05 70 550 70C538.95 70 530 61.05 530 50C530 38.95 538.95 30 550 30C561.05 30 570 38.95 570 50" fill="rgb(160,110,71)"/>
+<path d="M564 50C564 57.73 557.73 64 550 64C542.27 64 536 57.73 536 50C536 42.27 542.27 36 550 36C557.73 36 564 42.27 564 50" fill="rgb(195,147,106)"/>
+<path d="M242 32L258 32L258 68L242 68Z" fill="rgb(207,10,44)"/>
+<path d="M250 68L240 90L260 90Z" fill="rgb(207,10,44)"/>
+</g>
+</svg>

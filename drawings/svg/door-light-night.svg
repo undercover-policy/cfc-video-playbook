@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="420" viewBox="0 0 480 420">
+<title>Door to light</title>
+<desc>CFC asset library 127: Door to light (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): wall 240 360; opening 240 360; door 170 360; frame 240 360.</desc>
+<g id="wall" data-pivot="240 360">
+<path d="M0 -20L480 -20L480 360L0 360Z" fill="rgb(154,161,167)"/>
+<path d="M0 354L480 354L480 360L0 360Z" fill="rgb(141,147,150)"/>
+</g>
+<g id="opening" data-pivot="240 360">
+<path d="M170 60L310 60L310 360L170 360Z" fill="rgb(9,32,61)"/>
+<path d="M170 60L310 60L310 360L170 360Z" fill="rgb(255,211,106)"/>
+<path d="M170 360L310 360L450 420L110 420Z" fill="rgb(255,211,106)" fill-opacity="0.55"/>
+</g>
+<g id="door" data-pivot="170 360">
+<path d="M170 360L187.55 370L187.55 50L170 60Z" fill="rgb(102,80,66)"/>
+<path d="M181.55 370L187.55 370L187.55 50L181.55 50Z" fill="rgb(79,62,53)"/>
+</g>
+<g id="frame" data-pivot="240 360">
+<path d="M158 48L170 48L170 360L158 360Z" fill="rgb(141,147,150)"/>
+<path d="M310 48L322 48L322 360L310 360Z" fill="rgb(141,147,150)"/>
+<path d="M158 48L322 48L322 60L158 60Z" fill="rgb(141,147,150)"/>
+</g>
+</svg>

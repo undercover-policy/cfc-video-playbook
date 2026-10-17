@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400">
+<title>Living room with a TV</title>
+<desc>CFC asset library 64: Living room with a TV (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): room 480 385; picture-slot 130 135; tv 780 235; sofa 310 385; lamp 540 385.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="191" x2="0" y2="311" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<mask id="m2" maskUnits="userSpaceOnUse" x="0" y="0" width="960" height="400"><rect width="960" height="400" fill="#fff"/><path d="M690 307L870 307L870 195L690 195L690 307Z" fill="#000"/></mask>
+<linearGradient id="g3" gradientUnits="userSpaceOnUse" x1="0" y1="205" x2="0" y2="297" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+</defs>
+<g id="room" data-pivot="480 385">
+<path d="M20 25L20 385L940 385L940 25" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 375L150 375M460 375L680 375M880 375L940 375" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M320 205L480 205L480 75L320 75Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="picture-slot" data-pivot="130 135">
+<path d="M400 205L400 75M320 140L480 140" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="tv" data-pivot="780 235">
+<path d="M70 175L190 175L190 95L70 95Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<g mask="url(#m2)"><path d="M910 251L910 251C910 284.14 851.8 311 780 311C708.2 311 650 284.14 650 251C650 217.86 708.2 191 780 191C851.8 191 910 217.86 910 251" fill="url(#g1)" fill-opacity="0.12"/></g>
+<path d="M680 385L880 385L880 319L680 319Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M780 379L780 325" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M700 297L860 297L860 205L700 205Z" fill="url(#g3)" fill-opacity="0.8"/>
+<path d="M690 307L870 307L870 195L690 195Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="sofa" data-pivot="310 385">
+<path d="M700 297L860 297L860 205L700 205ZM780 319L780 307" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M170 375L440 375L440 295L170 295ZM150 375L180 375L180 275L150 275ZM430 375L460 375L460 275L430 275Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="lamp" data-pivot="540 385">
+<path d="M180 331L440 331L440 245L180 245ZM305 331L305 245M170 385L170 375M440 385L440 375" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="rug">
+<path d="M540 379L540 185M562 379L562 379C562 381.21 552.15 383 540 383C527.85 383 518 381.21 518 379C518 376.79 527.85 375 540 375C552.15 375 562 376.79 562 379M518 185L562 185L552 145L528 145Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M120 387L860 387" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

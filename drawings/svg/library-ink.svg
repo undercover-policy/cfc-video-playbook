@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="320" viewBox="0 0 780 320">
+<title>Library</title>
+<desc>CFC asset library 72: Library (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): wings 390 300; glass-front 390 300; name-slot 390 182; ground 390 300.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="236" x2="0" y2="270" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g2" gradientUnits="userSpaceOnUse" x1="0" y1="186" x2="0" y2="220" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g3" gradientUnits="userSpaceOnUse" x1="0" y1="136" x2="0" y2="170" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g4" gradientUnits="userSpaceOnUse" x1="0" y1="86" x2="0" y2="120" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<mask id="m5" maskUnits="userSpaceOnUse" x="0" y="0" width="780" height="320"><rect width="780" height="320" fill="#fff"/><path d="M350 300L430 300L430 204L350 204L350 300Z" fill="#000"/></mask>
+<mask id="m6" maskUnits="userSpaceOnUse" x="0" y="0" width="780" height="320"><rect width="780" height="320" fill="#fff"/><path d="M290 192L490 192L490 172L290 172L290 192Z" fill="#000"/></mask>
+</defs>
+<g id="wings" data-pivot="390 300">
+<path d="M50 300L230 300M220 168L50 168L50 300M46 168L220 168M220 160L46 160L46 168" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70 250L210 250L210 200L70 200Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 250L100 200M130 250L130 200M160 250L160 200M190 250L190 200" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M550 300L730 300L730 168L560 168M550 300L550 300M560 168L734 168L734 160L560 160" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M570 250L710 250L710 200L570 200Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="glass-front" data-pivot="390 300">
+<path d="M600 250L600 200M630 250L630 200M660 250L660 200M690 250L690 200" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g mask="url(#m5)"><path d="M240 270L540 270L540 236L240 236Z" fill="url(#g1)" fill-opacity="0.55"/></g>
+<g mask="url(#m6)"><g mask="url(#m5)"><path d="M240 220L540 220L540 186L240 186Z" fill="url(#g2)" fill-opacity="0.55"/></g></g>
+<path d="M240 170L540 170L540 136L240 136Z" fill="url(#g3)" fill-opacity="0.55"/>
+<path d="M240 120L540 120L540 86L240 86Z" fill="url(#g4)" fill-opacity="0.55"/>
+<path d="M220 300L220 300" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M240 270L350 270M430 270L540 270M244 268L244 244M251 268L251 240M258 268L258 245M265 268L265 241M272 268L272 246M279 268L279 242M286 268L286 247M293 268L293 243M300 268L300 248M307 268L307 244M314 268L314 240M321 268L321 245M328 268L328 241M335 268L335 246M342 268L342 242M349 268L349 247M433 268L433 244M440 268L440 240M447 268L447 245M454 268L454 241M461 268L461 246M468 268L468 242M475 268L475 247M482 268L482 243M489 268L489 248M496 268L496 244M503 268L503 240M510 268L510 245M517 268L517 241M524 268L524 246M531 268L531 242M240 220L350 220M430 220L540 220M244 218L244 194M251 218L251 190M258 218L258 195M265 218L265 191M272 218L272 196M279 218L279 192M286 218L286 197M293 218L293 193M300 218L300 198M307 218L307 194M314 218L314 192M321 218L321 195M328 218L328 192M335 218L335 196M342 218L342 192M349 218L349 197M356 204L356 193M363 204L363 198M370 204L370 194M377 204L377 192M384 204L384 195M391 204L391 192M398 204L398 196M405 204L405 192M412 204L412 197M419 204L419 193M426 204L426 198M433 218L433 194M440 218L440 192M447 218L447 195M454 218L454 192M461 218L461 196M468 218L468 192M475 218L475 197M482 218L482 193M489 218L489 198M496 218L496 194M503 218L503 190M510 218L510 195M517 218L517 191M524 218L524 196M531 218L531 192M240 170L540 170M244 168L244 144M251 168L251 140M258 168L258 145M265 168L265 141M272 168L272 146M279 168L279 142M286 168L286 147M293 168L293 143M300 168L300 148M307 168L307 144M314 168L314 140M321 168L321 145M328 168L328 141M335 168L335 146M342 168L342 142M349 168L349 147M356 168L356 143M363 168L363 148M370 168L370 144M377 168L377 140M384 168L384 145M391 168L391 141M398 168L398 146M405 168L405 142M412 168L412 147M419 168L419 143M426 168L426 148M433 168L433 144M440 168L440 140M447 168L447 145M454 168L454 141M461 168L461 146M468 168L468 142M475 168L475 147M482 168L482 143M489 168L489 148M496 168L496 144M503 168L503 140M510 168L510 145M517 168L517 141M524 168L524 146M531 168L531 142M240 120L540 120M244 118L244 94M251 118L251 90M258 118L258 95M265 118L265 91M272 118L272 96M279 118L279 92M286 118L286 97M293 118L293 93M300 118L300 98M307 118L307 94M314 118L314 90M321 118L321 95M328 118L328 91M335 118L335 96M342 118L342 92M349 118L349 97M356 118L356 93M363 118L363 98M370 118L370 94M377 118L377 90M384 118L384 95M391 118L391 91M398 118L398 96M405 118L405 92M412 118L412 97M419 118L419 93M426 118L426 98M433 118L433 94M440 118L440 90M447 118L447 95M454 118L454 91M461 118L461 96M468 118L468 92M475 118L475 97M482 118L482 93M489 118L489 98M496 118L496 94M503 118L503 90M510 118L510 95M517 118L517 91M524 118L524 96M531 118L531 92" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M305 300L305 192M305 172L305 78.25M390 300L390 300M390 204L390 192M390 172L390 40M475 300L475 192M475 172L475 78.25" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="name-slot" data-pivot="390 182">
+<path d="M350 300L430 300L430 204L350 204ZM390 300L390 204" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M290 192L490 192L490 172L290 172Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="ground" data-pivot="390 300">
+<path d="M450 270L490 270L490 230L450 230ZM458 244L482 244L482 238L458 238Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M10 300L770 300" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

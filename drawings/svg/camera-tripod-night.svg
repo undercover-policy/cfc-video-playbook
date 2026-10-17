@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="460" viewBox="0 0 340 460">
+<title>Camera on a tripod</title>
+<desc>CFC asset library 160: Camera on a tripod (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): tripod 170 140; camera 170 80.</desc>
+<path d="M320 440C320 447.46 252.84 453.5 170 453.5C87.16 453.5 20 447.46 20 440C20 432.54 87.16 426.5 170 426.5C252.84 426.5 320 432.54 320 440" fill="rgb(9,32,61)" fill-opacity="0.14"/>
+<g id="tripod" data-pivot="170 140">
+<path d="M170 140L194 440" fill="none" stroke="rgb(90,110,133)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M170 140L32 440" fill="none" stroke="rgb(90,110,133)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M170 140L308 440" fill="none" stroke="rgb(90,110,133)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M167 144L35 436" fill="none" stroke="rgb(116,135,154)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M173 144L305 436" fill="none" stroke="rgb(116,135,154)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M166 140L174 140L174 290L166 290Z" fill="rgb(90,110,133)"/>
+<path d="M144 124L196 124L196 124C198.21 124 200 125.79 200 128L200 140L200 140C200 142.21 198.21 144 196 144L144 144L144 144C141.79 144 140 142.21 140 140L140 128L140 128C140 125.79 141.79 124 144 124Z" fill="rgb(90,110,133)"/>
+<path d="M146 136L50 158" fill="none" stroke="rgb(90,110,133)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="camera" data-pivot="170 80">
+<path d="M85 25L229 25L229 25C236.73 25 243 31.27 243 39L243 113L243 113C243 120.73 236.73 127 229 127L85 127L85 127C77.27 127 71 120.73 71 113L71 39L71 39C71 31.27 77.27 25 85 25Z" fill="rgb(90,110,133)"/>
+<path d="M86 28L228 28L228 28C234.63 28 240 33.37 240 40L240 112L240 112C240 118.63 234.63 124 228 124L86 124L86 124C79.37 124 74 118.63 74 112L74 40L74 40C74 33.37 79.37 28 86 28Z" fill="rgb(19,33,52)"/>
+<path d="M114 16L196 16L196 16C198.21 16 200 17.79 200 20L200 24L200 24C200 26.21 198.21 28 196 28L114 28L114 28C111.79 28 110 26.21 110 24L110 20L110 20C110 17.79 111.79 16 114 16Z" fill="rgb(37,54,75)"/>
+<path d="M54 36L70 36L70 36C72.21 36 74 37.79 74 40L74 64L74 64C74 66.21 72.21 68 70 68L54 68L54 68C51.79 68 50 66.21 50 64L50 40L50 40C50 37.79 51.79 36 54 36Z" fill="rgb(37,54,75)"/>
+<path d="M246 44L310 44L310 44C313.31 44 316 46.69 316 50L316 100L316 100C316 103.31 313.31 106 310 106L246 106L246 106C242.69 106 240 103.31 240 100L240 50L240 50C240 46.69 242.69 44 246 44Z" fill="rgb(37,54,75)"/>
+<path d="M325 75C325 92.12 320.97 106 316 106C311.03 106 307 92.12 307 75C307 57.88 311.03 44 316 44C320.97 44 325 57.88 325 75" fill="rgb(47,81,123)"/>
+<path d="M321 75C321 87.15 318.76 97 316 97C313.24 97 311 87.15 311 75C311 62.85 313.24 53 316 53C318.76 53 321 62.85 321 75" fill="rgb(108,138,169)"/>
+<path d="M103 46C103 49.87 99.87 53 96 53C92.13 53 89 49.87 89 46C89 42.13 92.13 39 96 39C99.87 39 103 42.13 103 46" fill="rgb(163,7,31)"/>
+<path d="M103 46C103 49.87 99.87 53 96 53C92.13 53 89 49.87 89 46C89 42.13 92.13 39 96 39C99.87 39 103 42.13 103 46" fill="rgb(207,10,44)"/>
+<path d="M105 46C105 50.97 100.97 55 96 55C91.03 55 87 50.97 87 46C87 41.03 91.03 37 96 37C100.97 37 105 41.03 105 46" fill="rgb(207,10,44)" fill-opacity="0.6"/>
+</g>
+</svg>

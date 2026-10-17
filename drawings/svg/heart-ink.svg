@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="300" viewBox="0 0 460 300">
+<title>Heart (one line)</title>
+<desc>CFC asset library 151: Heart (one line) (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): heart 230 170.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="30" x2="0" y2="280" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+</defs>
+<g id="heart" data-pivot="230 170">
+<path d="M230 280C260 230 360 170 354 94C348 30 260 18 230 80C200 18 112 30 106 94C100 170 200 230 230 280" fill="url(#g1)" fill-opacity="0.55"/>
+</g>
+<path d="M30 254Q140 280 230 280C260 230 360 170 354 94C348 30 260 18 230 80C200 18 112 30 106 94C100 170 200 230 230 280Q320 280 430 254" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

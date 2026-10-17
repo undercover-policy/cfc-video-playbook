@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="340" viewBox="0 0 520 340">
+<title>Hymnal</title>
+<desc>CFC asset library 176: Hymnal (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): pages 150 300; cover 150 300.</desc>
+<path d="M380 314C380 319.96 326.27 324.8 260 324.8C193.73 324.8 140 319.96 140 314C140 308.04 193.73 303.2 260 303.2C326.27 303.2 380 308.04 380 314" fill="rgb(14,35,64)" fill-opacity="0.14"/>
+<g id="pages" data-pivot="150 300">
+<path d="M157 24L375 24L375 24C376.66 24 378 25.34 378 27L378 305L378 305C378 306.66 376.66 308 375 308L157 308L157 308C155.34 308 154 306.66 154 305L154 27L154 27C154 25.34 155.34 24 157 24Z" fill="rgb(251,246,236)"/>
+<path d="M372.8 28L373.8 28L373.8 300L372.8 300Z" fill="rgb(228,234,241)"/>
+<path d="M374.6 28L375.6 28L375.6 300L374.6 300Z" fill="rgb(228,234,241)"/>
+<path d="M376.4 28L377.4 28L377.4 300L376.4 300Z" fill="rgb(228,234,241)"/>
+</g>
+<g id="cover" data-pivot="150 300">
+<path d="M156 20L364 20L364 20C367.31 20 370 22.69 370 26L370 294L370 294C370 297.31 367.31 300 364 300L156 300L156 300C152.69 300 150 297.31 150 294L150 26L150 26C150 22.69 152.69 20 156 20Z" fill="rgb(46,74,64)"/>
+<path d="M150 20L170 20L170 300L150 300Z" fill="rgb(34,56,48)"/>
+<path d="M170 20L173 20L173 300L170 300Z" fill="rgb(195,206,219)"/>
+<path d="M187 34L353 34L353 34C354.66 34 356 35.34 356 37L356 283L356 283C356 284.66 354.66 286 353 286L187 286L187 286C185.34 286 184 284.66 184 283L184 37L184 37C184 35.34 185.34 34 187 34Z" fill="none" stroke="rgb(244,184,36)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M192 40L348 40L348 40C349.1 40 350 40.9 350 42L350 278L350 278C350 279.1 349.1 280 348 280L192 280L192 280C190.9 280 190 279.1 190 278L190 42L190 42C190 40.9 190.9 40 192 40Z" fill="none" stroke="rgb(244,184,36)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M273 106L283 106L283 184L273 184Z" fill="rgb(244,184,36)"/>
+<path d="M256 128L300 128L300 138L256 138Z" fill="rgb(244,184,36)"/>
+</g>
+</svg>

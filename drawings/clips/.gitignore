@@ -1,0 +1,2 @@
+# written by tools/export_drawings.py: every MOV and any clip over 10 MB, rebuilt with --clips
+*.mov

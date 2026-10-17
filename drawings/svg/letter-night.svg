@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="560" viewBox="0 0 700 560">
+<title>Letter and envelope</title>
+<desc>CFC asset library 25: Letter and envelope (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): flap 0 -190; letter 0 -90.</desc>
+<path d="M138 337L432 337L432 337C433.66 337 435 338.34 435 340L435 524L435 524C435 525.66 433.66 527 432 527L138 527L138 527C136.34 527 135 525.66 135 524L135 340L135 340C135 338.34 136.34 337 138 337Z" fill="rgb(9,32,61)" fill-opacity="0.12"/>
+<g id="flap" data-pivot="0 -190">
+<path d="M130 330L430 330L280 218Z" fill="rgb(182,193,204)"/>
+</g>
+<path d="M130 330L430 330L430 520L130 520Z" fill="rgb(182,193,204)"/>
+<g id="letter" data-pivot="0 -90">
+<path d="M148 274L412 274L412 450L148 450Z" fill="rgb(230,232,235)"/>
+<path d="M148 390.5L412 390.5L412 392L148 392Z" fill="rgb(182,193,204)"/>
+<path d="M148 331.5L412 331.5L412 333L148 333Z" fill="rgb(182,193,204)"/>
+<path d="M171 290L310.54 290L310.54 290C312.19 290 313.54 291.34 313.54 293L313.54 293L313.54 293C313.54 294.66 312.19 296 310.54 296L171 296L171 296C169.34 296 168 294.66 168 293L168 293L168 293C168 291.34 169.34 290 171 290Z" fill="rgb(156,170,186)"/>
+<path d="M171 303L335.51 303L335.51 303C337.16 303 338.51 304.34 338.51 306L338.51 306L338.51 306C338.51 307.66 337.16 309 335.51 309L171 309L171 309C169.34 309 168 307.66 168 306L168 306L168 306C168 304.34 169.34 303 171 303Z" fill="rgb(156,170,186)"/>
+<path d="M171 316L274.2 316L274.2 316C275.86 316 277.2 317.34 277.2 319L277.2 319L277.2 319C277.2 320.66 275.86 322 274.2 322L171 322L171 322C169.34 322 168 320.66 168 319L168 319L168 319C168 317.34 169.34 316 171 316Z" fill="rgb(156,170,186)"/>
+</g>
+<g id="pocket">
+<path d="M130 520L130 330L272 428Z" fill="rgb(230,232,235)"/>
+<path d="M430 520L430 330L288 428Z" fill="rgb(230,232,235)"/>
+<path d="M130 520L430 520L430 512L280 416L130 512Z" fill="rgb(230,232,235)"/>
+<path d="M130 512L280 416L430 512" fill="none" stroke="rgb(156,170,186)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M130 330L272 428" fill="none" stroke="rgb(156,170,186)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M430 330L288 428" fill="none" stroke="rgb(156,170,186)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M130 330L430 330L430 520L130 520Z" fill="none" stroke="rgb(156,170,186)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

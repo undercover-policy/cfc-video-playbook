@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="260" viewBox="0 0 820 260">
+<title>Ranch house</title>
+<desc>CFC asset library 59: Ranch house (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): house 410 240; ground 410 240.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="136" x2="0" y2="200" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g2" gradientUnits="userSpaceOnUse" x1="0" y1="136" x2="0" y2="200" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g3" gradientUnits="userSpaceOnUse" x1="0" y1="140" x2="0" y2="240" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+</defs>
+<g id="house" data-pivot="410 240">
+<path d="M50 240L770 240L770 110L50 110ZM30 110L790 110L410 30Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M77.5 100L742.5 100M120.25 91L699.75 91M163 82L657 82M205.75 73L614.25 73M248.5 64L571.5 64M291.25 55L528.75 55M334 46L486 46M376.75 37L443.25 37" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.45" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70 240L260 240L260 132L70 132Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70 213L260 213M70 186L260 186M70 159L260 159" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M320 200L470 200L470 136L320 136Z" fill="url(#g1)" fill-opacity="0.75"/>
+<path d="M320 200L470 200L470 136L320 136Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M370 200L370 136M420 200L420 136" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M570 200L730 200L730 136L570 136Z" fill="url(#g2)" fill-opacity="0.75"/>
+<path d="M570 200L730 200L730 136L570 136Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M623.33 200L623.33 136M676.67 200L676.67 136" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M490 240L534 240L534 140L490 140Z" fill="url(#g3)" fill-opacity="0.3"/>
+<path d="M490 240L534 240L534 140L490 140Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="ground" data-pivot="410 240">
+<path d="M538 220L552 220L552 144L538 144Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M10 240L810 240" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

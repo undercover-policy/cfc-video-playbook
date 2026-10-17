@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="360" viewBox="0 0 280 360">
+<title>Balls (basketball, softball, soccer)</title>
+<desc>CFC asset library 166: Balls (basketball, softball, soccer) (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): ball 140 244.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M236 244C236 297.02 193.02 340 140 340C86.98 340 44 297.02 44 244C44 190.98 86.98 148 140 148C193.02 148 236 190.98 236 244"/></clipPath>
+</defs>
+<path d="M230 340C230 344.47 189.71 348.1 140 348.1C90.29 348.1 50 344.47 50 340C50 335.53 90.29 331.9 140 331.9C189.71 331.9 230 335.53 230 340" fill="rgb(14,35,64)" fill-opacity="0.18"/>
+<g id="ball" data-pivot="140 244">
+<path d="M236 244C236 297.02 193.02 340 140 340C86.98 340 44 297.02 44 244C44 190.98 86.98 148 140 148C193.02 148 236 190.98 236 244" fill="rgb(201,115,29)"/>
+<g clip-path="url(#c1)"><path d="M266 274C266 327.02 223.02 370 170 370C116.98 370 74 327.02 74 274C74 220.98 116.98 178 170 178C223.02 178 266 220.98 266 274" fill="rgb(158,86,18)"/></g>
+<g clip-path="url(#c1)"><path d="M222.32 238C222.32 286.78 182.78 326.32 134 326.32C85.22 326.32 45.68 286.78 45.68 238C45.68 189.22 85.22 149.68 134 149.68C182.78 149.68 222.32 189.22 222.32 238" fill="rgb(201,115,29)"/></g>
+<g clip-path="url(#c1)"><path d="M140 340L140 148" fill="none" stroke="rgb(29,37,50)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M44 244L236 244" fill="none" stroke="rgb(29,37,50)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M106.4 244C106.4 302.32 76.31 349.6 39.2 349.6C2.09 349.6 -28 302.32 -28 244C-28 185.68 2.09 138.4 39.2 138.4C76.31 138.4 106.4 185.68 106.4 244" fill="none" stroke="rgb(29,37,50)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M308 244C308 302.32 277.91 349.6 240.8 349.6C203.69 349.6 173.6 302.32 173.6 244C173.6 185.68 203.69 138.4 240.8 138.4C277.91 138.4 308 185.68 308 244" fill="none" stroke="rgb(29,37,50)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+</svg>

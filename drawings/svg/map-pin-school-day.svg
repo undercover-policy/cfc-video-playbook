@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="220" viewBox="0 0 200 220">
+<title>Map pins: place, church, school, Capitol</title>
+<desc>CFC asset library 42: Map pins: place, church, school, Capitol (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): pin 100 200; glyph-school 100 116.</desc>
+<path d="M118.2 200C118.2 203.48 110.05 206.3 100 206.3C89.95 206.3 81.8 203.48 81.8 200C81.8 196.52 89.95 193.7 100 193.7C110.05 193.7 118.2 196.52 118.2 200" fill="rgb(14,35,64)" fill-opacity="0.22"/>
+<g id="pin" data-pivot="100 200">
+<path d="M100 200L84.23 148.8C68.92 141.44 60.74 124.47 64.51 107.91C68.28 91.35 83.01 79.6 100 79.6C116.99 79.6 131.72 91.35 135.49 107.91C139.26 124.47 131.08 141.44 115.77 148.8Z" fill="rgb(0,45,92)"/>
+<path d="M100 200L115.77 148.8C131.08 141.44 139.26 124.47 135.49 107.91C131.72 91.35 116.99 79.6 100 79.6Z" fill="rgb(14,35,64)"/>
+<path d="M123.8 116C123.8 129.14 113.14 139.8 100 139.8C86.86 139.8 76.2 129.14 76.2 116C76.2 102.86 86.86 92.2 100 92.2C113.14 92.2 123.8 102.86 123.8 116" fill="rgb(255,255,255)"/>
+</g>
+<g id="glyph-school" data-pivot="100 116">
+<path d="M81.8 111.8L100 103.4L118.2 111.8L100 120.2Z" fill="rgb(0,45,92)"/>
+<path d="M90.2 117.4L109.8 117.4L109.8 127.2L100 130L90.2 127.2Z" fill="rgb(0,45,92)"/>
+<path d="M118.2 111.8L118.2 124.4" fill="none" stroke="rgb(0,45,92)" stroke-width="2.24" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

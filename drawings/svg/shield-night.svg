@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="340" viewBox="0 0 300 340">
+<title>Shield (protection, aqua)</title>
+<desc>CFC asset library 125: Shield (protection, aqua) (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): shield 150 170.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M51 56.6Q150 35 249 56.6L249 123.2C249 186.2 186 269 150 296C114 269 51 186.2 51 123.2Z"/></clipPath>
+</defs>
+<path d="M240 320C240 324.47 199.71 328.1 150 328.1C100.29 328.1 60 324.47 60 320C60 315.53 100.29 311.9 150 311.9C199.71 311.9 240 315.53 240 320" fill="rgb(9,32,61)" fill-opacity="0.12"/>
+<g id="shield" data-pivot="150 170">
+<path d="M40 44Q150 20 260 44L260 118C260 188 190 280 150 310C110 280 40 188 40 118Z" fill="rgb(0,137,124)"/>
+<path d="M51 56.6Q150 35 249 56.6L249 123.2C249 186.2 186 269 150 296C114 269 51 186.2 51 123.2Z" fill="rgb(0,190,172)"/>
+<g clip-path="url(#c1)"><path d="M150 20L280 20L280 320L150 320Z" fill="rgb(0,137,124)"/></g>
+<path d="M147 36L153 36L153 302L147 302Z" fill="rgb(0,137,124)" fill-opacity="0.9"/>
+<path d="M172 148C172 160.15 162.15 170 150 170C137.85 170 128 160.15 128 148C128 135.85 137.85 126 150 126C162.15 126 172 135.85 172 148" fill="rgb(0,137,124)"/>
+<path d="M163 145C163 153.84 155.84 161 147 161C138.16 161 131 153.84 131 145C131 136.16 138.16 129 147 129C155.84 129 163 136.16 163 145" fill="rgb(0,190,172)"/>
+</g>
+</svg>

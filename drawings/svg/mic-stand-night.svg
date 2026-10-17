@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="600" viewBox="0 0 300 600">
+<title>Microphone on a stand</title>
+<desc>CFC asset library 159: Microphone on a stand (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): stand 150 580; microphone 150 110.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M180 58C180 74.57 166.57 88 150 88C133.43 88 120 74.57 120 58C120 41.43 133.43 28 150 28C166.57 28 180 41.43 180 58"/></clipPath>
+</defs>
+<path d="M230 580C230 583.98 194.18 587.2 150 587.2C105.82 587.2 70 583.98 70 580C70 576.02 105.82 572.8 150 572.8C194.18 572.8 230 576.02 230 580" fill="rgb(9,32,61)" fill-opacity="0.16"/>
+<g id="stand" data-pivot="150 580">
+<path d="M222 574C222 580.63 189.76 586 150 586C110.24 586 78 580.63 78 574C78 567.37 110.24 562 150 562C189.76 562 222 567.37 222 574" fill="rgb(90,110,133)"/>
+<path d="M222 568C222 574.63 189.76 580 150 580C110.24 580 78 574.63 78 568C78 561.37 110.24 556 150 556C189.76 556 222 561.37 222 568" fill="rgb(116,135,154)"/>
+<path d="M145 160L155 160L155 568L145 568Z" fill="rgb(90,110,133)"/>
+<path d="M145 160L149 160L149 568L145 568Z" fill="rgb(116,135,154)"/>
+<path d="M143 264L157 264L157 264C159.21 264 161 265.79 161 268L161 286L161 286C161 288.21 159.21 290 157 290L143 290L143 290C140.79 290 139 288.21 139 286L139 268L139 268C139 265.79 140.79 264 143 264Z" fill="rgb(90,110,133)"/>
+</g>
+<g id="microphone" data-pivot="150 110">
+<path d="M144 136L156 136L156 136C157.66 136 159 137.34 159 139L159 161L159 161C159 162.66 157.66 164 156 164L144 164L144 164C142.34 164 141 162.66 141 161L141 139L141 139C141 137.34 142.34 136 144 136Z" fill="rgb(19,33,52)"/>
+<path d="M139 140L161 140L166 84L134 84Z" fill="rgb(19,33,52)"/>
+<path d="M180 58C180 74.57 166.57 88 150 88C133.43 88 120 74.57 120 58C120 41.43 133.43 28 150 28C166.57 28 180 41.43 180 58" fill="rgb(90,110,133)"/>
+<path d="M173 55C173 69.36 161.36 81 147 81C132.64 81 121 69.36 121 55C121 40.64 132.64 29 147 29C161.36 29 173 40.64 173 55" fill="rgb(116,135,154)"/>
+<g clip-path="url(#c1)"><path d="M72 88L132 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M72 28L132 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M80 88L140 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M80 28L140 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M88 88L148 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M88 28L148 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M96 88L156 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M96 28L156 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M104 88L164 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M104 28L164 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M112 88L172 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M112 28L172 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M120 88L180 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M120 28L180 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M128 88L188 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M128 28L188 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M136 88L196 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M136 28L196 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M144 88L204 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M144 28L204 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M152 88L212 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M152 28L212 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M160 88L220 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M160 28L220 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M168 88L228 28" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M168 28L228 88" fill="none" stroke="rgb(90,110,133)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M122 80L178 80L178 80C179.1 80 180 80.9 180 82L180 84L180 84C180 85.1 179.1 86 178 86L122 86L122 86C120.9 86 120 85.1 120 84L120 82L120 82C120 80.9 120.9 80 122 80Z" fill="rgb(19,33,52)"/>
+</g>
+<g id="sound">
+<path d="M225.86 16.14C248.98 39.26 248.98 76.74 225.86 99.86" fill="none" stroke="rgb(70,106,146)" stroke-width="5" stroke-opacity="0.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M211.01 30.99C225.93 45.91 225.93 70.09 211.01 85.01" fill="none" stroke="rgb(70,106,146)" stroke-width="5" stroke-opacity="0.74" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M74.14 99.86C51.02 76.74 51.02 39.26 74.14 16.14" fill="none" stroke="rgb(70,106,146)" stroke-width="5" stroke-opacity="0.44" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M88.99 85.01C74.07 70.09 74.07 45.91 88.99 30.99" fill="none" stroke="rgb(70,106,146)" stroke-width="5" stroke-opacity="0.74" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

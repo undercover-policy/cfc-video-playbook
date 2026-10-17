@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="300" viewBox="0 0 460 300">
+<title>Steps</title>
+<desc>CFC asset library 129: Steps (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): step-1 80 280; step-2 152 280; step-3 224 280; step-4 296 280; step-5 368 280; goal 368 50.</desc>
+<path d="M430 280C430 289.94 340.46 298 230 298C119.54 298 30 289.94 30 280C30 270.06 119.54 262 230 262C340.46 262 430 270.06 430 280" fill="rgb(14,35,64)" fill-opacity="0.12"/>
+<g id="step-1" data-pivot="80 280">
+<path d="M44 234L116 234L142 218L70 218Z" fill="rgb(110,151,196)"/>
+<path d="M44 234L116 234L116 280L44 280Z" fill="rgb(39,88,141)"/>
+</g>
+<g id="step-2" data-pivot="152 280">
+<path d="M116 188L188 188L214 172L142 172Z" fill="rgb(110,151,196)"/>
+<path d="M116 188L188 188L188 280L116 280Z" fill="rgb(39,88,141)"/>
+</g>
+<g id="step-3" data-pivot="224 280">
+<path d="M188 142L260 142L286 126L214 126Z" fill="rgb(110,151,196)"/>
+<path d="M188 142L260 142L260 280L188 280Z" fill="rgb(39,88,141)"/>
+</g>
+<g id="step-4" data-pivot="296 280">
+<path d="M260 96L332 96L358 80L286 80Z" fill="rgb(110,151,196)"/>
+<path d="M260 96L332 96L332 280L260 280Z" fill="rgb(39,88,141)"/>
+</g>
+<g id="step-5" data-pivot="368 280">
+<path d="M404 280L430 264L430 34L404 50Z" fill="rgb(0,45,92)"/>
+<path d="M332 50L404 50L430 34L358 34Z" fill="rgb(110,151,196)"/>
+<path d="M332 50L404 50L404 280L332 280Z" fill="rgb(39,88,141)"/>
+</g>
+<g id="goal" data-pivot="368 50">
+<path d="M332 50L404 50L430 34L358 34" fill="rgb(255,211,106)"/>
+</g>
+</svg>

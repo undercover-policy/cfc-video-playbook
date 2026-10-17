@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320">
+<title>Megaphone</title>
+<desc>CFC asset library 139: Megaphone (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): megaphone 240 140.</desc>
+<g id="megaphone" data-pivot="240 140">
+<path d="M98 120L132 120L132 120C136.42 120 140 123.58 140 128L140 152L140 152C140 156.42 136.42 160 132 160L98 160L98 160C93.58 160 90 156.42 90 152L90 128L90 128C90 123.58 93.58 120 98 120Z" fill="rgb(0,45,92)"/>
+<path d="M136 164L320 230L320 50L136 116Z" fill="rgb(39,88,141)"/>
+<path d="M136 140L320 140L320 50L136 116Z" fill="rgb(0,45,92)"/>
+<path d="M346 140C346 190.81 334.36 232 320 232C305.64 232 294 190.81 294 140C294 89.19 305.64 48 320 48C334.36 48 346 89.19 346 140" fill="rgb(141,157,176)"/>
+<path d="M342 140C342 185.29 333.94 222 324 222C314.06 222 306 185.29 306 140C306 94.71 314.06 58 324 58C333.94 58 342 94.71 342 140" fill="rgb(228,234,241)"/>
+<path d="M168 160L182 160L182 160C186.42 160 190 163.58 190 168L190 222L190 222C190 226.42 186.42 230 182 230L168 230L168 230C163.58 230 160 226.42 160 222L160 168L160 168C160 163.58 163.58 160 168 160Z" fill="rgb(0,45,92)"/>
+<path d="M188 168L196 168L196 168C198.21 168 200 169.79 200 172L200 186L200 186C200 188.21 198.21 190 196 190L188 190L188 190C185.79 190 184 188.21 184 186L184 172L184 172C184 169.79 185.79 168 188 168Z" fill="rgb(141,157,176)"/>
+</g>
+<g id="sound">
+<path d="M491.22 22.87C541.97 92.71 541.97 187.29 491.22 257.13" fill="none" stroke="rgb(110,151,196)" stroke-width="7" stroke-opacity="0.26" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M419.38 75.06C447.51 113.78 447.51 166.22 419.38 204.94" fill="none" stroke="rgb(110,151,196)" stroke-width="7" stroke-opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="500" viewBox="0 0 720 500">
+<title>Foster home: a suitcase at the door</title>
+<desc>CFC asset library 225: Foster home: a suitcase at the door (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): house 360 420; door 280 410; steps 360 450; suitcase 550 420; backpack 160 420.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="146" x2="0" y2="410" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<linearGradient id="g2" gradientUnits="userSpaceOnUse" x1="0" y1="420" x2="0" y2="480" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+<mask id="m3" maskUnits="userSpaceOnUse" x="0" y="0" width="720" height="500"><rect width="720" height="500" fill="#fff"/><path d="M280 410L317.35 410L317.35 146L280 146L280 410Z" fill="#000"/></mask>
+<mask id="m4" maskUnits="userSpaceOnUse" x="0" y="0" width="720" height="500"><rect width="720" height="500" fill="#fff"/><path d="M160 450L560 450L560 420L160 420L160 450ZM120 480L600 480L600 450L120 450L120 480Z" fill="#000"/></mask>
+<mask id="m5" maskUnits="userSpaceOnUse" x="0" y="0" width="720" height="500"><rect width="720" height="500" fill="#fff"/><path d="M510 420L610 420L610 290L510 290L510 420Z" fill="#000"/></mask>
+</defs>
+<g id="house" data-pivot="360 420">
+<path d="M20 420L160 420M560 420L700 420M60 420L60 10M660 420L660 10" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M60 400L114.3 400M197.56 400L210 400M610 400L660 400M60 384L114.64 384M196.84 384L210 384M610 384L660 384M60 368L114.98 368M196.13 368L210 368M610 368L660 368M60 352L115.32 352M195.42 352L210 352M610 352L660 352M60 336L115.66 336M194.71 336L210 336M610 336L660 336M60 320L116 320M194 320L210 320M610 320L660 320M60 304L119.38 304M190.61 304L210 304M610 304L660 304M60 288L129.9 288M180.11 288L210 288M510 288L660 288M60 272L210 272M510 272L660 272M60 256L210 256M510 256L660 256M60 240L210 240M510 240L660 240M60 224L210 224M510 224L660 224M60 208L210 208M510 208L660 208M60 192L210 192M510 192L660 192M60 176L210 176M510 176L660 176M60 160L210 160M510 160L660 160M60 144L210 144M510 144L660 144M60 128L210 128M510 128L660 128M60 112L210 112M510 112L660 112M60 96L660 96M60 80L660 80M60 64L660 64M60 48L660 48M60 32L660 32M60 16L660 16" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.45" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M264 410L264 410" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M260 360L224 360M260 305L224 305M260 250L224 250M260 195L224 195" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M456 410L456 410" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M460 360L496 360M460 305L496 305M460 250L496 250M460 195L496 195" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M210 140L510 140L510 100L210 100Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="door" data-pivot="280 410">
+<path d="M176 180L176 180C176 188.84 168.84 196 160 196C151.16 196 144 188.84 144 180C144 171.16 151.16 164 160 164C168.84 164 176 171.16 176 180M154 212L166 212L166 196L154 196Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<g mask="url(#m3)"><path d="M280 410L440 410L440 146L280 146Z" fill="url(#g1)"/></g>
+<g mask="url(#m5)"><g mask="url(#m4)"><path d="M280 420L440 420L510 480L240 480Z" fill="url(#g2)" fill-opacity="0.5"/></g></g>
+<path d="M280 410L317.35 410L317.35 146L280 146Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="steps" data-pivot="360 450">
+<path d="M270 416L270 416" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 450L160 450M120 480L120 480" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="suitcase" data-pivot="550 420">
+<path d="M290 420L430 420L440 428L280 428Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M510 420L610 420L610 290L510 290Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="backpack" data-pivot="160 420">
+<path d="M538 290L538 272L582 272L582 290M510 360L610 360M528 424L528 424C528 427.31 525.31 430 522 430C518.69 430 516 427.31 516 424C516 420.69 518.69 418 522 418C525.31 418 528 420.69 528 424M604 424L604 424C604 427.31 601.31 430 598 430C594.69 430 592 427.31 592 424C592 420.69 594.69 418 598 418C601.31 418 604 420.69 604 424" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M114 414Q110 420 120 420L190 420Q200 420 198 410L194 320Q190 280 155 280Q120 280 116 320Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M128 404Q126 350 155 348Q184 350 182 404ZM134 362Q155 354 176 362M144 280Q155 258 166 280" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M114 310Q98 360 110 410M196 310Q212 360 200 410" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

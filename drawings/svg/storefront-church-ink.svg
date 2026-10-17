@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="260" viewBox="0 0 820 260">
+<title>Storefront church</title>
+<desc>CFC asset library 54: Storefront church (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): strip 410 240; church 410 240; sign-slot 410 72; ground 410 240.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="120" x2="0" y2="240" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+</defs>
+<g id="strip" data-pivot="410 240">
+<path d="M30 240L790 240L790 34L30 34ZM24 34L796 34L796 20L24 20Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M280 240L280 34" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M540 240L540 34" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M50 220L260 220L260 120L50 120ZM50 90L260 90L260 54L50 54Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="church" data-pivot="410 240">
+<g id="sign-slot" data-pivot="410 72">
+<path d="M560 220L770 220L770 120L560 120ZM560 90L770 90L770 54L560 54Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M294 90L526 90L526 54L294 54Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M294 226L400 226L400 108L294 108Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M341 210L353 210L353 128L341 128ZM318 160L376 160L376 148L318 148Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M420 240L480 240L480 120L420 120Z" fill="url(#g1)"/>
+<path d="M420 240L480 240L480 120L420 120Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M428 232L472 232L472 128L428 128ZM470.5 180L470.5 180C470.5 181.38 469.38 182.5 468 182.5C466.62 182.5 465.5 181.38 465.5 180C465.5 178.62 466.62 177.5 468 177.5C469.38 177.5 470.5 178.62 470.5 180" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="ground" data-pivot="410 240">
+<path d="M490 240L526 240L526 108L490 108Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M10 240L810 240" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

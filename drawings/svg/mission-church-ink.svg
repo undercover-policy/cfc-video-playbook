@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="400" viewBox="0 0 820 400">
+<title>Mission-style church</title>
+<desc>CFC asset library 52: Mission-style church (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): arcade 620 380; facade 380 380; bell-wall 150 380; ground 380 380.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="255" x2="0" y2="380" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+</defs>
+<g id="arcade" data-pivot="620 380">
+<path d="M500 380L780 380L780 240L510 240M500 380L500 380M510 240L790 240L780 220L510 220" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M520 380L520 290L520 290C520 276.19 531.19 265 545 265C558.81 265 570 276.19 570 290L570 380" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M590 380L590 290L590 290C590 276.19 601.19 265 615 265C628.81 265 640 276.19 640 290L640 380" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M660 380L660 290L660 290C660 276.19 671.19 265 685 265C698.81 265 710 276.19 710 290L710 380" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="facade" data-pivot="380 380">
+<path d="M730 380L730 290L730 290C730 276.19 741.19 265 755 265C768.81 265 780 276.19 780 290L780 380" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M250 380L250 380" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M270 380L270 152M490 380L490 152" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M345 380L345 290L345 290C345 270.67 360.67 255 380 255C399.33 255 415 270.67 415 290L415 380Z" fill="url(#g1)"/>
+<path d="M345 380L345 290L345 290C345 270.67 360.67 255 380 255C399.33 255 415 270.67 415 290L415 380" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M337 380L337 290L337 290C337 266.25 356.25 247 380 247C403.75 247 423 266.25 423 290L423 380M380 380L380 290" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M365 210L365 180L365 180C365 171.72 371.72 165 380 165C388.28 165 395 171.72 395 180L395 210M396 130L396 130C396 138.84 388.84 146 380 146C371.16 146 364 138.84 364 130C364 121.16 371.16 114 380 114C388.84 114 396 121.16 396 130" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="bell-wall" data-pivot="150 380">
+<path d="M380 80L380 28M366 44L394 44" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M50 380L50 380" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80 230L80 190L80 190C80 178.95 88.95 170 100 170C111.05 170 120 178.95 120 190L120 230M80 230L120 230" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M88 216Q88 180 100 180Q112 180 112 216Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M180 230L180 190L180 190C180 178.95 188.95 170 200 170C211.05 170 220 178.95 220 190L220 230M180 230L220 230" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M188 216Q188 180 200 180Q212 180 212 216Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M130 160L130 120L130 120C130 108.95 138.95 100 150 100C161.05 100 170 108.95 170 120L170 160M130 160L170 160" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="ground" data-pivot="380 380">
+<path d="M138 146Q138 110 150 110Q162 110 162 146Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M20 380L810 380" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

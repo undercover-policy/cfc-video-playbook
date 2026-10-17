@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="500" viewBox="0 0 920 500">
+<title>Hospital room (emergency or maternity)</title>
+<desc>CFC asset library 228: Hospital room (emergency or maternity) (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): monitor 160 180; iv 760 480; bed 460 330; floor 460 480.</desc>
+<g id="monitor" data-pivot="160 180">
+<path d="M160 460L160 180M120 460L200 460" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80 180L240 180L240 70L80 70Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M90 170L230 170L230 80L90 80Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="iv" data-pivot="760 480">
+<path d="M94 125L96.2 125L98.4 125L100.6 125L102.8 125L105 125L107.2 125L109.4 125L111.6 125L113.8 95L116 145L118.2 145L120.4 125L122.6 125L124.8 125L127 125L129.2 125L131.4 125L133.6 125L135.8 125L138 125L140.2 125L142.4 125L144.6 125L146.8 125L149 125L151.2 125L153.4 125L155.6 125L157.8 95L160 145L162.2 145L164.4 125L166.6 125L168.8 125L171 125L173.2 125L175.4 125L177.6 125L179.8 125L182 125L184.2 125L186.4 125L188.6 125L190.8 125L193 125L195.2 125L197.4 125L199.6 125L201.8 95L204 145L206.2 145L208.4 125L210.6 125L212.8 125L215 125L217.2 125L219.4 125L221.6 125L223.8 125L226 125" fill="none" stroke="rgb(244,184,36)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M760 470L760 100M760 30L760 10M730 470L790 470M740 10L780 10" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="bed" data-pivot="460 330">
+<path d="M736 100L736 100M750 100L737.34 119.38L730.9 128.59L724.38 137.5L717.77 146.09L711.09 154.38L704.34 162.34L697.5 170L690.59 177.34L683.59 184.38L676.52 191.09L669.38 197.5L662.15 203.59L654.84 209.38L647.46 214.84L640 220" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M260 330L660 330L660 290L400 290L260 190ZM250 370L670 370L670 330L250 330Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M270 440L270 370M650 440L650 370M282 450L282 450C282 456.63 276.63 462 270 462C263.37 462 258 456.63 258 450C258 443.37 263.37 438 270 438C276.63 438 282 443.37 282 450M662 450L662 450C662 456.63 656.63 462 650 462C643.37 462 638 456.63 638 450C638 443.37 643.37 438 650 438C656.63 438 662 443.37 662 450" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="floor" data-pivot="460 480">
+<path d="M500 290L640 290L640 266L500 266ZM284 244L356 294L376 270L310 218ZM420 320L640 320M340 284L580 284L580 230L340 230ZM360 284L360 230M385 284L385 230M410 284L410 230M435 284L435 230M460 284L460 230M485 284L485 230M510 284L510 230M535 284L535 230M560 284L560 230" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M0 480L920 480" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

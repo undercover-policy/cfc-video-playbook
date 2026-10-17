@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="480" viewBox="0 0 440 480">
+<title>Crib</title>
+<desc>CFC asset library 153: Crib (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): crib 220 460; mobile 180 40.</desc>
+<g id="crib" data-pivot="220 460">
+<path d="M54 364L386 364L386 332L54 332Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31 460L49 460L49 160L31 160ZM52 148L52 148C52 154.63 46.63 160 40 160C33.37 160 28 154.63 28 148C28 141.37 33.37 136 40 136C46.63 136 52 141.37 52 148M391 460L409 460L409 198L391 198ZM412 186L412 186C412 192.63 406.63 198 400 198C393.37 198 388 192.63 388 186C388 179.37 393.37 174 400 174C406.63 174 412 179.37 412 186M49 192L100 176L220 170M220 170L391 170" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M49 398L391 398L391 384L49 384ZM49 222L391 222L391 208L49 208Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="mobile" data-pivot="180 40">
+<path d="M70 384L70 222M95 384L95 222M120 384L120 222M145 384L145 222M170 384L170 222M195 384L195 222M220 384L220 222M245 384L245 222M270 384L270 222M295 384L295 222M320 384L320 222M345 384L345 222M370 384L370 222" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40 148L40 30M40 30L180 30M180 40L180 30" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M180 40L241.43 80.6" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M241.43 79.73L236.83 91.67L224.06 92.36L233.99 100.42L230.69 112.78L241.43 105.83L252.17 112.78L248.88 100.42L258.8 92.36L246.03 91.67Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M180 40L120.22 96.4" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M123.22 97.28C97.34 100.8 97.34 127.2 123.22 130.72C109.66 121.92 109.66 106.08 123.22 97.28" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M180 40L178.35 120" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M185.85 130L185.85 130C185.85 134.14 182.49 137.5 178.35 137.5C174.21 137.5 170.85 134.14 170.85 130C170.85 125.86 174.21 122.5 178.35 122.5C182.49 122.5 185.85 125.86 185.85 130" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="200" viewBox="0 0 320 200">
+<title>Voting sticker (words slot)</title>
+<desc>CFC asset library 19: Voting sticker (words slot) (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): sticker 160 100.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M282 100C282 139.76 227.38 172 160 172C92.62 172 38 139.76 38 100C38 60.24 92.62 28 160 28C227.38 28 282 60.24 282 100"/></clipPath>
+</defs>
+<path d="M296 106C296 151.29 236.9 188 164 188C91.1 188 32 151.29 32 106C32 60.71 91.1 24 164 24C236.9 24 296 60.71 296 106" fill="rgb(14,35,64)" fill-opacity="0.14"/>
+<g id="sticker" data-pivot="160 100">
+<path d="M290 100C290 144.18 231.8 180 160 180C88.2 180 30 144.18 30 100C30 55.82 88.2 20 160 20C231.8 20 290 55.82 290 100" fill="rgb(255,255,255)"/>
+<path d="M284 100C284 140.87 228.48 174 160 174C91.52 174 36 140.87 36 100C36 59.13 91.52 26 160 26C228.48 26 284 59.13 284 100" fill="none" stroke="rgb(0,45,92)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#c1)"><path d="M30 50.5L290 50.5L290 54L30 54Z" fill="rgb(207,10,44)"/></g>
+<g clip-path="url(#c1)"><path d="M30 43.5L290 43.5L290 47L30 47Z" fill="rgb(255,255,255)"/></g>
+<g clip-path="url(#c1)"><path d="M30 36.5L290 36.5L290 40L30 40Z" fill="rgb(207,10,44)"/></g>
+<g clip-path="url(#c1)"><path d="M30 29.5L290 29.5L290 33L30 33Z" fill="rgb(255,255,255)"/></g>
+<g clip-path="url(#c1)"><path d="M30 56L290 56L290 60L30 60Z" fill="rgb(0,45,92)"/></g>
+<path d="M84 76L236 76L236 76C241.52 76 246 80.48 246 86L246 118L246 118C246 123.52 241.52 128 236 128L84 128L84 128C78.48 128 74 123.52 74 118L74 86L74 86C74 80.48 78.48 76 84 76Z" fill="rgb(228,234,241)"/>
+</g>
+</svg>

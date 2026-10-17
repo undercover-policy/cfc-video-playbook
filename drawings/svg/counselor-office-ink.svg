@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400">
+<title>Counselor's office</title>
+<desc>CFC asset library 218: Counselor's office (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): room 480 385; window 360 135; picture-slot 560 125; bookshelf 870 385; desk 700 385; chairs 420 385; door 20 385.</desc>
+<g id="room" data-pivot="480 385">
+<path d="M20 25L20 385L940 385L940 25" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="window" data-pivot="360 135">
+<path d="M20 375L24 375M140 375L230 375M330 375L390 375M450 375L510 375M610 375L630 375M780 375L800 375M930 375L940 375" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M290 195L430 195L430 65L290 65Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="picture-slot" data-pivot="560 125">
+<path d="M294 185L426 185M294 175L426 175M294 165L426 165M294 155L426 155M294 145L426 145M294 135L426 135M294 125L426 125M294 115L426 115M294 105L426 105M294 95L426 95M294 85L426 85M294 75L426 75" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M510 155L610 155L610 85L510 85Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="bookshelf" data-pivot="870 385">
+<path d="M518 147L602 147L602 93L518 93Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M800 385L930 385L930 85L800 85Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M800 315L930 315" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M806 313L815.4 313L815.4 274.16L806 274.16ZM817.4 313L828.97 313L828.97 265.28L817.4 265.28ZM830.97 313L837.9 313L837.9 258.48L830.97 258.48ZM839.9 313L852.96 313L852.96 259.32L839.9 259.32ZM854.96 313L861.41 313L861.41 271.39L854.96 271.39ZM863.41 313L876.69 313L876.69 263.32L863.41 263.32ZM878.69 313L888.65 313L888.65 261.21L878.69 261.21ZM890.65 313L900.03 313L900.03 273.93L890.65 273.93ZM902.03 313L909.07 313L909.07 273.5L902.03 273.5ZM911.07 313L920.4 313L920.4 264.87L911.07 264.87ZM922.4 313L936.22 313L936.22 273.85L922.4 273.85Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M800 245L930 245" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M806 243L814.31 243L814.31 200.01L806 200.01ZM816.31 243L823.39 243L823.39 200.84L816.31 200.84ZM825.39 243L833.14 243L833.14 204.83L825.39 204.83ZM835.14 243L847.66 243L847.66 194.58L835.14 194.58ZM849.66 243L859.47 243L859.47 192.88L849.66 192.88ZM861.47 243L869.9 243L869.9 199.82L861.47 199.82ZM871.9 243L882.69 243L882.69 199.48L871.9 199.48ZM884.69 243L896.36 243L896.36 196.13L884.69 196.13ZM898.36 243L909.37 243L909.37 193.23L898.36 193.23ZM911.37 243L920.56 243L920.56 202.67L911.37 202.67ZM922.56 243L931.01 243L931.01 193.77L922.56 193.77Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M800 175L930 175" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="desk" data-pivot="700 385">
+<path d="M806 173L812.05 173L812.05 116.39L806 116.39ZM814.05 173L821.07 173L821.07 116.87L814.05 116.87ZM823.07 173L832.98 173L832.98 118.68L823.07 118.68ZM834.98 173L843.52 173L843.52 127.47L834.98 127.47ZM845.52 173L853.7 173L853.7 121.99L845.52 121.99ZM855.7 173L868.48 173L868.48 126.72L855.7 126.72ZM870.48 173L879.6 173L879.6 123.66L870.48 123.66ZM881.6 173L889.98 173L889.98 119.77L881.6 119.77ZM891.98 173L900.97 173L900.97 126.79L891.98 126.79ZM902.97 173L911.68 173L911.68 125.51L902.97 125.51ZM913.68 173L924.73 173L924.73 124.09L913.68 124.09Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M630 385L780 385L780 295L630 295ZM626 295L784 295L784 287L626 287Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M720 375L774 375L774 305L720 305ZM720 340L774 340" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M650 281L710 281L710 235L650 235ZM680 287L680 281" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="chairs" data-pivot="420 385">
+<path d="M760 287L752 245L768 225M758 225L780 225L786 237L762 237Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M230 385L330 385L330 335L244 335M230 356L230 385M244 335L330 335L330 321L244 321" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M224 365L224 245L244 245L244 335Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M510 385L610 385L610 356M596 335L510 335L510 385M510 335L596 335M596 321L510 321L510 335" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M616 365L616 245L596 245L596 335Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M454 335L454 335C454 337.76 438.78 340 420 340C401.22 340 386 337.76 386 335C386 332.24 401.22 330 420 330C438.78 330 454 332.24 454 335M420 385L420 339" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="door" data-pivot="20 385">
+<path d="M404 333L434 333L434 319L404 319ZM418 319Q420 311 426 315" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 385L140 385L140 135L24 135L24 139M24 385L24 385" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 385L134 385L134 139L24 139Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M124 265L124 265C124 267.21 122.21 269 120 269C117.79 269 116 267.21 116 265C116 262.79 117.79 261 120 261C122.21 261 124 262.79 124 265" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

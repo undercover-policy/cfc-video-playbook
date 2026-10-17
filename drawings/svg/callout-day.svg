@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="200" viewBox="0 0 460 200">
+<title>Callout pill with a leader line</title>
+<desc>CFC asset library 187: Callout pill with a leader line (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): pill 290 70.</desc>
+<g id="leader">
+<path d="M140 70L20 180" fill="none" stroke="rgb(244,184,36)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29 180C29 184.97 24.97 189 20 189C15.03 189 11 184.97 11 180C11 175.03 15.03 171 20 171C24.97 171 29 175.03 29 180" fill="rgb(244,184,36)"/>
+</g>
+<g id="pill" data-pivot="290 70">
+<path d="M172 44L422 44L422 44C437.46 44 450 56.54 450 72L450 72L450 72C450 87.46 437.46 100 422 100L172 100L172 100C156.54 100 144 87.46 144 72L144 72L144 72C144 56.54 156.54 44 172 44Z" fill="rgb(14,35,64)" fill-opacity="0.12"/>
+<path d="M168 42L412 42L412 42C427.46 42 440 54.54 440 70L440 70L440 70C440 85.46 427.46 98 412 98L168 98L168 98C152.54 98 140 85.46 140 70L140 70L140 70C140 54.54 152.54 42 168 42Z" fill="rgb(0,45,92)"/>
+<path d="M175 70C175 74.97 170.97 79 166 79C161.03 79 157 74.97 157 70C157 65.03 161.03 61 166 61C170.97 61 175 65.03 175 70" fill="rgb(244,184,36)"/>
+<path d="M194 56L414 56L414 56C417.31 56 420 58.69 420 62L420 78L420 78C420 81.31 417.31 84 414 84L194 84L194 84C190.69 84 188 81.31 188 78L188 62L188 62C188 58.69 190.69 56 194 56Z" fill="rgb(39,88,141)"/>
+</g>
+</svg>

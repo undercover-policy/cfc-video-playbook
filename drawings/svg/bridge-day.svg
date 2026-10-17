@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380">
+<title>Bridge (halves meet)</title>
+<desc>CFC asset library 131: Bridge (halves meet) (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): bank-left 80 210; bank-right 520 210; half-left 150 210; half-right 450 210; join 300 204.</desc>
+<g id="water">
+<path d="M140 330L153.3 326.87L166.6 326.1L179.9 328.29L193.2 331.77L206.5 333.91L219.8 333.09L233.1 329.93L246.4 326.83L259.7 326.12L273 328.35L286.3 331.83L299.6 333.92L312.9 333.05L326.2 329.87L339.5 326.78L352.8 326.14L366.1 328.41L379.4 331.89L392.7 333.94L406 333L419.3 329.8L432.6 326.75L445.9 326.16L459.2 328.47" fill="none" stroke="rgb(110,151,196)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140 300.63L153.3 300.21L166.6 302.66L179.9 306.12L193.2 307.97L206.5 306.82L219.8 303.53L233.1 300.6L246.4 300.24L259.7 302.72L273 306.18L286.3 307.98L299.6 306.77L312.9 303.47L326.2 300.56L339.5 300.26L352.8 302.79L366.1 306.23L379.4 307.99L392.7 306.73L406 303.4L419.3 300.53L432.6 300.28L445.9 302.85L459.2 306.29" fill="none" stroke="rgb(110,151,196)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140 274.36L153.3 277.04L166.6 280.45L179.9 282L193.2 280.53L206.5 277.14L219.8 274.41L233.1 274.39L246.4 277.11L259.7 280.5L273 282L286.3 280.47L299.6 277.07L312.9 274.38L326.2 274.42L339.5 277.17L352.8 280.55L366.1 282L379.4 280.42L392.7 277.01L406 274.35L419.3 274.45L432.6 277.24L445.9 280.6L459.2 282" fill="none" stroke="rgb(110,151,196)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="bank-left" data-pivot="80 210">
+<path d="M0 360L0 210L150 210L170 360Z" fill="rgb(39,88,141)"/>
+<path d="M0 204L150 204L150 220L0 220Z" fill="rgb(0,45,92)"/>
+</g>
+<g id="bank-right" data-pivot="520 210">
+<path d="M600 360L600 210L450 210L430 360Z" fill="rgb(39,88,141)"/>
+<path d="M450 204L600 204L600 220L450 220Z" fill="rgb(0,45,92)"/>
+</g>
+<g id="half-left" data-pivot="150 210">
+<path d="M150 204L300 204L300 226L150 226Z" fill="rgb(160,110,71)"/>
+<path d="M150 218L300 218L300 226L150 226Z" fill="rgb(124,81,52)"/>
+<path d="M150 180L300 180L300 204L150 204Z" fill="rgb(195,147,106)"/>
+<path d="M199 180L201 180L201 204L199 204Z" fill="rgb(160,110,71)"/>
+<path d="M249 180L251 180L251 204L249 204Z" fill="rgb(160,110,71)"/>
+<path d="M150 174L300 174L300 180L150 180Z" fill="rgb(160,110,71)"/>
+</g>
+<g id="half-right" data-pivot="450 210">
+<path d="M450 204L300 204L300 226L450 226Z" fill="rgb(160,110,71)"/>
+<path d="M450 218L300 218L300 226L450 226Z" fill="rgb(124,81,52)"/>
+<path d="M450 180L300 180L300 204L450 204Z" fill="rgb(195,147,106)"/>
+<path d="M401 180L399 180L399 204L401 204Z" fill="rgb(160,110,71)"/>
+<path d="M351 180L349 180L349 204L351 204Z" fill="rgb(160,110,71)"/>
+<path d="M450 174L300 174L300 180L450 180Z" fill="rgb(160,110,71)"/>
+</g>
+<g id="join" data-pivot="300 204">
+<path d="M312 202C312 208.63 306.63 214 300 214C293.37 214 288 208.63 288 202C288 195.37 293.37 190 300 190C306.63 190 312 195.37 312 202" fill="rgb(255,211,106)" fill-opacity="0.5"/>
+</g>
+</svg>

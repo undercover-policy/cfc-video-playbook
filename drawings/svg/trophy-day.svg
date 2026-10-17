@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="380" viewBox="0 0 320 380">
+<title>Trophy (plate slot)</title>
+<desc>CFC asset library 162: Trophy (plate slot) (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): base 160 360; cup 160 184.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M68 28C68 124 120 182 160 184C200 182 252 124 252 28Z"/></clipPath>
+</defs>
+<path d="M260 360C260 364.97 215.23 369 160 369C104.77 369 60 364.97 60 360C60 355.03 104.77 351 160 351C215.23 351 260 355.03 260 360" fill="rgb(14,35,64)" fill-opacity="0.16"/>
+<g id="base" data-pivot="160 360">
+<path d="M68 296L252 296L252 360L68 360Z" fill="rgb(95,64,48)"/>
+<path d="M68 352L252 352L252 360L68 360Z" fill="rgb(69,46,33)"/>
+<path d="M80 286L240 286L240 296L80 296Z" fill="rgb(69,46,33)"/>
+<path d="M101 312L219 312L219 312C220.66 312 222 313.34 222 315L222 341L222 341C222 342.66 220.66 344 219 344L101 344L101 344C99.34 344 98 342.66 98 341L98 315L98 315C98 313.34 99.34 312 101 312Z" fill="rgb(244,184,36)"/>
+</g>
+<g id="cup" data-pivot="160 184">
+<path d="M144 286L176 286L169 200L151 200Z" fill="rgb(201,143,10)"/>
+<path d="M188 200C188 205.52 175.46 210 160 210C144.54 210 132 205.52 132 200C132 194.48 144.54 190 160 190C175.46 190 188 194.48 188 200" fill="rgb(244,184,36)"/>
+<path d="M178 184C178 188.42 169.94 192 160 192C150.06 192 142 188.42 142 184C142 179.58 150.06 176 160 176C169.94 176 178 179.58 178 184" fill="rgb(201,143,10)"/>
+<path d="M74 48C20 46 24 128 100 146" fill="none" stroke="rgb(201,143,10)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M246 48C300 46 296 128 220 146" fill="none" stroke="rgb(201,143,10)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M68 28C68 124 120 182 160 184C200 182 252 124 252 28Z" fill="rgb(244,184,36)"/>
+<g clip-path="url(#c1)"><path d="M190 20L260 20L260 190L190 190Z" fill="rgb(201,143,10)"/></g>
+<path d="M252 28C252 35.73 210.81 42 160 42C109.19 42 68 35.73 68 28C68 20.27 109.19 14 160 14C210.81 14 252 20.27 252 28" fill="rgb(201,143,10)"/>
+<path d="M244 26C244 31.52 206.39 36 160 36C113.61 36 76 31.52 76 26C76 20.48 113.61 16 160 16C206.39 16 244 20.48 244 26" fill="rgb(244,184,36)"/>
+</g>
+</svg>

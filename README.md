@@ -6,7 +6,7 @@ other organisations can learn from what worked.
 
 - [GUIDE.md](GUIDE.md): the method, step by step.
 - [RULES.md](RULES.md): the rules every CFC piece follows.
-- [LESSONS.md](LESSONS.md): 355 lessons from building real videos, by topic (355 of them also in `lessons.jsonl`).
+- [LESSONS.md](LESSONS.md): 365 lessons from building real videos, by topic (365 of them also in `lessons.jsonl`).
 - [drawings/](drawings/README.md): ready drawings (PNG and SVG) of the California Capitol, a church, schools, a
   main-street shop, sports settings, and more.
 

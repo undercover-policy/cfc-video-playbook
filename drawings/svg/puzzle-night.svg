@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="260" viewBox="0 0 520 260">
+<title>Puzzle pieces (join)</title>
+<desc>CFC asset library 141: Puzzle pieces (join) (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): piece-left 180 110; piece-right 340 110.</desc>
+<g id="piece-left" data-pivot="180 110">
+<path d="M100 190L260 190L260 129.2C300 158 314 62 260 90.8L260 30L100 30L100 90.8Z" fill="rgb(25,66,110)"/>
+</g>
+<g id="piece-right" data-pivot="340 110">
+<path d="M260 190L420 190L420 129.2L420 30L260 30L260 90.8C314 62 300 158 260 129.2Z" fill="rgb(244,184,36)"/>
+</g>
+<path d="M460 200C460 209.94 370.46 218 260 218C149.54 218 60 209.94 60 200C60 190.06 149.54 182 260 182C370.46 182 460 190.06 460 200" fill="rgb(9,32,61)" fill-opacity="0.12"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="360" viewBox="0 0 280 360">
+<title>Balls (basketball, softball, soccer)</title>
+<desc>CFC asset library 166: Balls (basketball, softball, soccer) (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): ball 140 244.</desc>
+<defs>
+<clipPath id="c1" clipPathUnits="userSpaceOnUse"><path d="M236 244C236 297.02 193.02 340 140 340C86.98 340 44 297.02 44 244C44 190.98 86.98 148 140 148C193.02 148 236 190.98 236 244"/></clipPath>
+</defs>
+<path d="M230 340C230 344.47 189.71 348.1 140 348.1C90.29 348.1 50 344.47 50 340C50 335.53 90.29 331.9 140 331.9C189.71 331.9 230 335.53 230 340" fill="rgb(14,35,64)" fill-opacity="0.18"/>
+<g id="ball" data-pivot="140 244">
+<path d="M236 244C236 297.02 193.02 340 140 340C86.98 340 44 297.02 44 244C44 190.98 86.98 148 140 148C193.02 148 236 190.98 236 244" fill="rgb(255,255,255)"/>
+<g clip-path="url(#c1)"><path d="M266 274C266 327.02 223.02 370 170 370C116.98 370 74 327.02 74 274C74 220.98 116.98 178 170 178C223.02 178 266 220.98 266 274" fill="rgb(228,234,241)"/></g>
+<g clip-path="url(#c1)"><path d="M222.32 238C222.32 286.78 182.78 326.32 134 326.32C85.22 326.32 45.68 286.78 45.68 238C45.68 189.22 85.22 149.68 134 149.68C182.78 149.68 222.32 189.22 222.32 238" fill="rgb(255,255,255)"/></g>
+<g clip-path="url(#c1)"><path d="M140 214L111.47 234.73L122.37 268.27L157.63 268.27L168.53 234.73Z" fill="rgb(29,37,50)"/></g>
+<g clip-path="url(#c1)"><path d="M57.39 160.3L68.29 193.84L103.56 193.84L114.46 160.3L85.92 139.57Z" fill="rgb(29,37,50)"/></g>
+<g clip-path="url(#c1)"><path d="M122.37 219.73L98.86 187.37" fill="none" stroke="rgb(29,37,50)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M34.87 296.7L70.14 296.7L81.03 263.16L52.5 242.43L23.97 263.16Z" fill="rgb(29,37,50)"/></g>
+<g clip-path="url(#c1)"><path d="M111.47 253.27L73.43 265.63" fill="none" stroke="rgb(29,37,50)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M157.63 360.27L168.53 326.73L140 306L111.47 326.73L122.37 360.27Z" fill="rgb(29,37,50)"/></g>
+<g clip-path="url(#c1)"><path d="M140 274L140 314" fill="none" stroke="rgb(29,37,50)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M256.03 263.16L227.5 242.43L198.97 263.16L209.86 296.7L245.13 296.7Z" fill="rgb(29,37,50)"/></g>
+<g clip-path="url(#c1)"><path d="M168.53 253.27L206.57 265.63" fill="none" stroke="rgb(29,37,50)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g clip-path="url(#c1)"><path d="M194.08 139.57L165.54 160.3L176.44 193.84L211.71 193.84L222.61 160.3Z" fill="rgb(29,37,50)"/></g>
+<g clip-path="url(#c1)"><path d="M157.63 219.73L181.14 187.37" fill="none" stroke="rgb(29,37,50)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+</svg>

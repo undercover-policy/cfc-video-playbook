@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="330" viewBox="0 0 300 330">
+<title>Compass (settles)</title>
+<desc>CFC asset library 137: Compass (settles) (day). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): case 150 150; needle 150 150.</desc>
+<g id="case" data-pivot="150 150">
+<path d="M166 42C166 50.84 158.84 58 150 58C141.16 58 134 50.84 134 42C134 33.16 141.16 26 150 26C158.84 26 166 33.16 166 42" fill="rgb(175,129,38)"/>
+<path d="M159 42C159 46.97 154.97 51 150 51C145.03 51 141 46.97 141 42C141 37.03 145.03 33 150 33C154.97 33 159 37.03 159 42" fill="rgb(255,255,255)"/>
+<path d="M270 150C270 216.27 216.27 270 150 270C83.73 270 30 216.27 30 150C30 83.73 83.73 30 150 30C216.27 30 270 83.73 270 150" fill="rgb(175,129,38)"/>
+<path d="M260 146C260 208.96 208.96 260 146 260C83.04 260 32 208.96 32 146C32 83.04 83.04 32 146 32C208.96 32 260 83.04 260 146" fill="rgb(216,166,58)"/>
+<path d="M250 150C250 205.23 205.23 250 150 250C94.77 250 50 205.23 50 150C50 94.77 94.77 50 150 50C205.23 50 250 94.77 250 150" fill="rgb(255,255,255)"/>
+<path d="M150 56L150 78" fill="none" stroke="rgb(14,35,64)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.34 57.81L167.17 63.69" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M185.97 63.16L181.38 74.24" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M202.22 71.84L198.89 76.83" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M216.47 83.53L207.98 92.02" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M228.16 97.78L223.17 101.11" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M236.84 114.03L225.76 118.62" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M242.19 131.66L236.31 132.83" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M244 150L222 150" fill="none" stroke="rgb(14,35,64)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M242.19 168.34L236.31 167.17" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M236.84 185.97L225.76 181.38" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M228.16 202.22L223.17 198.89" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M216.47 216.47L207.98 207.98" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M202.22 228.16L198.89 223.17" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M185.97 236.84L181.38 225.76" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.34 242.19L167.17 236.31" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M150 244L150 222" fill="none" stroke="rgb(14,35,64)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M131.66 242.19L132.83 236.31" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M114.03 236.84L118.62 225.76" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M97.78 228.16L101.11 223.17" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M83.53 216.47L92.02 207.98" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M71.84 202.22L76.83 198.89" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M63.16 185.97L74.24 181.38" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.81 168.34L63.69 167.17" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M56 150L78 150" fill="none" stroke="rgb(14,35,64)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.81 131.66L63.69 132.83" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M63.16 114.03L74.24 118.62" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M71.84 97.78L76.83 101.11" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M83.53 83.53L92.02 92.02" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M97.78 71.84L101.11 76.83" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M114.03 63.16L118.62 74.24" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M131.66 57.81L132.83 63.69" fill="none" stroke="rgb(14,35,64)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="needle" data-pivot="150 150">
+<path d="M150 72L162 150L138 150Z" fill="rgb(207,10,44)"/>
+<path d="M150 228L162 150L138 150Z" fill="rgb(0,45,92)"/>
+<path d="M159 150C159 154.97 154.97 159 150 159C145.03 159 141 154.97 141 150C141 145.03 145.03 141 150 141C154.97 141 159 145.03 159 150" fill="rgb(175,129,38)"/>
+</g>
+</svg>

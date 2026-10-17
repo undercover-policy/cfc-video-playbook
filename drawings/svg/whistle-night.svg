@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="300" viewBox="0 0 360 300">
+<title>Whistle</title>
+<desc>CFC asset library 165: Whistle (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): whistle 190 140.</desc>
+<g id="lanyard">
+<path d="M308 110C350 140 340 230 290 252" fill="none" stroke="rgb(207,10,44)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="whistle" data-pivot="190 140">
+<path d="M314 110C314 117.73 307.73 124 300 124C292.27 124 286 117.73 286 110C286 102.27 292.27 96 300 96C307.73 96 314 102.27 314 110" fill="none" stroke="rgb(90,110,133)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M292 150C292 184.24 264.24 212 230 212C195.76 212 168 184.24 168 150C168 115.76 195.76 88 230 88C264.24 88 292 115.76 292 150" fill="rgb(90,110,133)"/>
+<path d="M284 146C284 178.03 258.03 204 226 204C193.97 204 168 178.03 168 146C168 113.97 193.97 88 226 88C258.03 88 284 113.97 284 146" fill="rgb(116,135,154)"/>
+<path d="M60 88L212 88L212 88C216.42 88 220 91.58 220 96L220 128L220 128C220 132.42 216.42 136 212 136L60 136L60 136C55.58 136 52 132.42 52 128L52 96L52 96C52 91.58 55.58 88 60 88Z" fill="rgb(90,110,133)"/>
+<path d="M61 90L213 90L213 90C216.87 90 220 93.13 220 97L220 123L220 123C220 126.87 216.87 130 213 130L61 130L61 130C57.13 130 54 126.87 54 123L54 97L54 97C54 93.13 57.13 90 61 90Z" fill="rgb(116,135,154)"/>
+<path d="M184 88L224 88L224 108L184 108Z" fill="rgb(19,33,52)"/>
+<path d="M56 92L60 92L60 92C62.21 92 64 93.79 64 96L64 128L64 128C64 130.21 62.21 132 60 132L56 132L56 132C53.79 132 52 130.21 52 128L52 96L52 96C52 93.79 53.79 92 56 92Z" fill="rgb(90,110,133)"/>
+</g>
+<g id="blasts">
+<path d="M206.12 48.08L207.54 28.13" fill="none" stroke="rgb(70,106,146)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M234.87 58.04L242.12 39.4" fill="none" stroke="rgb(70,106,146)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M256.65 78.5L269.08 62.83" fill="none" stroke="rgb(70,106,146)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

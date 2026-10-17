@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="380" viewBox="0 0 380 380">
+<title>House with a heart</title>
+<desc>CFC asset library 152: House with a heart (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): house 190 360; heart 190 160.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="116.8" x2="0" y2="200" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+</defs>
+<g id="house" data-pivot="190 360">
+<path d="M20 360L40 360L40 140L190 20L340 140L340 360L360 360M270 84L270 30L300 30L300 108" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M155 360L155 270L155 270C155 250.67 170.67 235 190 235C209.33 235 225 250.67 225 270L225 360" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="heart" data-pivot="190 160">
+<path d="M215 310L215 310C215 311.66 213.66 313 212 313C210.34 313 209 311.66 209 310C209 308.34 210.34 307 212 307C213.66 307 215 308.34 215 310" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M190 200C199.6 184 231.6 164.8 229.68 140.48C227.76 120 199.6 116.16 190 136C180.4 116.16 152.24 120 150.32 140.48C148.4 164.8 180.4 184 190 200" fill="url(#g1)" fill-opacity="0.7"/>
+</g>
+<path d="M190 200C199.6 184 231.6 164.8 229.68 140.48C227.76 120 199.6 116.16 190 136C180.4 116.16 152.24 120 150.32 140.48C148.4 164.8 180.4 184 190 200" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

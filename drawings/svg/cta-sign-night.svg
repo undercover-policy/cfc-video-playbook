@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="150" viewBox="0 0 360 150">
+<title>Call to action: Call, Email, Testify, Sign, Give</title>
+<desc>CFC asset library 188: Call to action: Call, Email, Testify, Sign, Give (night). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): button 80 75; label-slot 226 75; glyph-sign 80 75.</desc>
+<path d="M86 23L294 23L294 23C324.93 23 350 48.07 350 79L350 85L350 85C350 115.93 324.93 141 294 141L86 141L86 141C55.07 141 30 115.93 30 85L30 79L30 79C30 48.07 55.07 23 86 23Z" fill="rgb(9,32,61)" fill-opacity="0.12"/>
+<g id="button" data-pivot="80 75">
+<path d="M76 19L288 19L288 19C318.93 19 344 44.07 344 75L344 75L344 75C344 105.93 318.93 131 288 131L76 131L76 131C45.07 131 20 105.93 20 75L20 75L20 75C20 44.07 45.07 19 76 19Z" fill="rgb(230,232,235)"/>
+<path d="M136 75C136 105.93 110.93 131 80 131C49.07 131 24 105.93 24 75C24 44.07 49.07 19 80 19C110.93 19 136 44.07 136 75" fill="rgb(0,39,79)"/>
+</g>
+<g id="label-slot" data-pivot="226 75">
+<path d="M166 59L302 59L302 59C309.73 59 316 65.27 316 73L316 77L316 77C316 84.73 309.73 91 302 91L166 91L166 91C158.27 91 152 84.73 152 77L152 73L152 73C152 65.27 158.27 59 166 59Z" fill="rgb(182,193,204)"/>
+</g>
+<g id="glyph-sign" data-pivot="80 75">
+<path d="M80 105L64 77L72 43L88 43L96 77Z" fill="rgb(230,232,235)"/>
+<path d="M84.5 73C84.5 75.49 82.49 77.5 80 77.5C77.51 77.5 75.5 75.49 75.5 73C75.5 70.51 77.51 68.5 80 68.5C82.49 68.5 84.5 70.51 84.5 73" fill="rgb(0,39,79)"/>
+<path d="M80 102L80 77" fill="none" stroke="rgb(0,39,79)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M52.5 108L107.5 108L107.5 108C108.88 108 110 109.12 110 110.5L110 110.5L110 110.5C110 111.88 108.88 113 107.5 113L52.5 113L52.5 113C51.12 113 50 111.88 50 110.5L50 110.5L50 110.5C50 109.12 51.12 108 52.5 108Z" fill="rgb(230,232,235)"/>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="360" viewBox="0 0 440 360">
+<title>Cradle (rocks once)</title>
+<desc>CFC asset library 154: Cradle (rocks once) (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): rockers 0 0; body 0 -130; hood -120 -250.</desc>
+<g id="rockers" data-pivot="0 0">
+<path d="M68.93 291.61L77.8 297.67L86.92 303.36L96.26 308.67L105.82 313.59L115.57 318.1L125.5 322.22L135.58 325.91L145.82 329.19L156.18 332.05L166.65 334.47L177.21 336.45L187.84 338L198.53 339.11L209.26 339.78L220 340L230.74 339.78L241.47 339.11L252.16 338L262.79 336.45L273.35 334.47L283.82 332.05L294.18 329.19L304.42 325.91L314.5 322.22L324.43 318.1L334.18 313.59L343.74 308.67L353.08 303.36L362.2 297.67L371.07 291.61M68.93 279.61L77.8 285.67L86.92 291.36L96.26 296.67L105.82 301.59L115.57 306.1L125.5 310.22L135.58 313.91L145.82 317.19L156.18 320.05L166.65 322.47L177.21 324.45L187.84 326L198.53 327.11L209.26 327.78L220 328L230.74 327.78L241.47 327.11L252.16 326L262.79 324.45L273.35 322.47L283.82 320.05L294.18 317.19L304.42 313.91L314.5 310.22L324.43 306.1L334.18 301.59L343.74 296.67L353.08 291.36L362.2 285.67L371.07 279.61" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="body" data-pivot="0 -130">
+<path d="M104 314L104 270M116 314L116 270M324 314L324 270M336 314L336 270" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70 270L70 270" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M65 230L375 230M60 180L380 180" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="hood" data-pivot="-120 -250">
+<path d="M160 144Q260 160 380 144" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M52 140C50 50 110 28 170 138" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.95" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M70 136C70 70 110 52 150 136" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

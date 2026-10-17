@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="340" viewBox="0 0 540 340">
+<title>Print shop</title>
+<desc>CFC asset library 82: Print shop (ink). Drawn in code by the CFC Motion Engine; licence row A-031. Pivots (group x y): front 270 320; sign-slot 270 80; ground 270 320.</desc>
+<defs>
+<linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="0" y1="150" x2="0" y2="320" gradientTransform="matrix(1 0 0 1 0 0)"><stop offset="0" stop-color="rgb(255,211,106)"/><stop offset="1" stop-color="rgb(244,184,36)"/></linearGradient>
+</defs>
+<g id="front" data-pivot="270 320">
+<path d="M50 320L490 320L490 34L50 34ZM44 34L496 34L496 20L44 20Z" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="sign-slot" data-pivot="270 80">
+<path d="M50 120L490 120M50 112L490 112M50 104L110 104M430 104L490 104M50 96L110 96M430 96L490 96M50 88L110 88M430 88L490 88M50 80L110 80M430 80L490 80M50 72L110 72M430 72L490 72M50 64L110 64M430 64L490 64M50 56L110 56M430 56L490 56M50 48L490 48M50 40L490 40" fill="none" stroke="rgb(0,45,92)" stroke-width="1.14" stroke-opacity="0.4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M110 98L430 98L430 60L110 60Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70 290L310 290L310 140L70 140Z" fill="none" stroke="rgb(0,45,92)" stroke-width="2.4" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M64 298L316 298L316 290L64 290Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M90 280L230 280L230 224L90 224ZM100 290L100 280M220 290L220 280M178 208L178 208C178 217.94 169.94 226 160 226C150.06 226 142 217.94 142 208C142 198.06 150.06 190 160 190C169.94 190 178 198.06 178 208M178 172L178 172C178 181.94 169.94 190 160 190C150.06 190 142 181.94 142 172C142 162.06 150.06 154 160 154C169.94 154 178 162.06 178 172M164 208L164 208C164 210.21 162.21 212 160 212C157.79 212 156 210.21 156 208C156 205.79 157.79 204 160 204C162.21 204 164 205.79 164 208M164 172L164 172C164 174.21 162.21 176 160 176C157.79 176 156 174.21 156 172C156 169.79 157.79 168 160 168C162.21 168 164 169.79 164 172M80 170L142 190M178 190L240 208L280 208M240 280L300 280L300 268L240 268ZM244 268L296 268L296 262L244 262ZM246 274L294 274" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M340 320L430 320L430 150L340 150Z" fill="url(#g1)"/>
+<path d="M340 320L430 320L430 150L340 150ZM385 320L385 150" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="ground" data-pivot="270 320">
+<path d="M348 230L378 230L378 160L348 160ZM392 230L422 230L422 160L392 160Z" fill="none" stroke="rgb(0,45,92)" stroke-width="1.56" stroke-opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M10 320L530 320" fill="none" stroke="rgb(0,45,92)" stroke-width="3.6" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
